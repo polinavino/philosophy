@@ -68,6 +68,8 @@ three structural properties most consistently demanded of moral systems. We addr
 objections in §4 — the Frege-Geach problem, the debunking worry, and the relativism objection —
 and draw conclusions in §5.
 
+## 2 Related work
+
 ### 2.1 Non-cognitivism, Expressivism, and the Demand for Logical Structure
 
 The metaethical tradition of non-cognitivism holds that moral statements do not express propositions with 
