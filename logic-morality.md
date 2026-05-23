@@ -657,33 +657,61 @@ presuppositions are not held in common.
 ## References
 
 [1] Ayer, A.J. (1936). Language, Truth and Logic. Gollancz.
+
 [2] Stevenson, C.L. (1944). Ethics and Language. Yale University Press.
+
 [3] Hare, R.M. (1952). The Language of Morals. Oxford University Press.
+
 [4] Blackburn, S. (1984). Spreading the Word. Oxford University Press.
+
 [5] Parfit, D. (1984). Reasons and Persons. Oxford University Press.
+
 [6] Rawls, J. (1971). A Theory of Justice. Harvard University Press.
+
 [7] Korsgaard, C. (1996). The Sources of Normativity. Cambridge University Press.
+
 [8] Dawkins, R. (1976). The Selfish Gene. Oxford University Press.
+
 [9] Sperber, D. (1996). Explaining Culture: A Naturalistic Approach. Blackwell.
+
 [10] Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist model of moral judgment. Psychological Review, 108(4), 814-834. 
+
 [11] Skyrms, B. (1996). Evolution of the Social Contract. Cambridge University Press.
+
 [12] Kitcher, P. (2011). The Ethical Project. Harvard University Press.
+
 [13] Mackie, J.L. (1977). Ethics: Inventing Right and Wrong. Penguin.
+
 [14] Dunbar, R. (2022). How Religion Evolved: And Why It Endures. Penguin. 
+
 [15] Dunbar, R. (1996). Grooming, Gossip and the Evolution of Language. Harvard University Press. 
+
 [16] Girard, R. (1977). Violence and the Sacred. Johns Hopkins University Press. 
+
 [17] Geach, P. (1960). Ascriptivism. Philosophical Review, 69, 221-225.
+
 [18] Geach, P. (1965). Assertion. Philosophical Review, 74, 449-465.
+
 [19] Blackburn, S. (1993). Essays in Quasi-Realism. Oxford University Press.
+
 [20] Haidt, J. (2012). The Righteous Mind. Pantheon.
+
 [21] Greene, J. (2001). An fMRI investigation of emotional engagement in moral judgment. Science, 293(5537), 2105-2108.
+
 [22] Greene, J. (2013). Moral Tribes. Penguin.
+
 [23] Savage, L.J. (1954). The Foundations of Statistics. John Wiley & Sons.
+
 [24] Mercier, H. and Sperber, D. (2017). The Enigma of Reason. Harvard University Press.
+
 [25] Nietzsche, F. (1887). On the Genealogy of Morality. (Trans. C. Diethe, Cambridge University Press, 1994.)
+
 [26] Prinz, J. (2007). The Emotional Construction of Morals. Oxford University Press.
+
 [27] Norenzayan, A. (2013). Big Gods: How Religion Transformed Cooperation and Conflict. Princeton University Press.
+
 [28] Street, S. (2006). A Darwinian dilemma for realist theories of value. Philosophical Studies, 127(1), 109-166.
+
 [29] Joyce, R. (2006). The Evolution of Morality. MIT Press.
 
 
