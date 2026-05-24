@@ -8,13 +8,10 @@ is not a normative constraint but a memetic fitness advantage. Consistency, univ
 overridingness are properties that moral systems tend to acquire because systems with these 
 properties outcompete systems without them at the level of individual cognition, cultural 
 transmission, and social coordination. The relationship runs not from morality to logic but 
-from logic to better morality: logical structure makes moral systems more transmissible, more 
-capable of coordinating strangers, and more resistant to degradation across generations. A 
+from logic to better morality: logical structure makes moral reasoning and discourse possible, 
+makes moral systems transmissible across persons and generations, and enables coordination among strangers at scale. A 
 striking corollary is that moral philosophers demanding logical coherence are participating 
-in the propagation mechanism rather than uncovering normative structure. We also note a 
-pragmatic tension: fully admitting that morality need not be logical would make moral 
-reasoning impossible, since logical reasoning is the only tool available for thinking 
-carefully about moral questions at all.
+in the propagation mechanism rather than uncovering normative structure. 
 
 ## 1 Introduction
 
@@ -48,17 +45,23 @@ a refutation of our account but one of its most striking illustrations — the p
 indispensability of logical structure in moral reasoning is itself a consequence of the selection
 pressures we describe.
 
-This paper makes three contributions. First, we argue that the standard direction of explanation
-runs backwards: the logical structure of moral systems is selected for by cultural transmission
-pressures, not grounded in the nature of moral discourse itself. Second, we identify the specific
-mechanism through which this advantage operates, by integrating Sperber's epidemiology of
-representations with Dunbar's anthropological findings on the scaling of social groups: the
-fitness advantage of logical structure becomes decisive precisely at the scale where personal
-relationships can no longer sustain coordination and strangers must cooperate on the basis of
-shared, codified norms. Third, we offer a new reading of the Frege-Geach problem: rather than a
-deficiency that non-cognitivist accounts must repair, it identifies a structural feature that
-moral discourse has learned to exploit — the embedding of moral attitudes in deductive form is a
-rhetorical maneuver that increases transmissibility, not evidence of semantic compositionality.
+This paper makes three contributions:
+
+- We show that the logical structure of moral systems serves three distinct functional roles —
+  making moral reasoning and discourse possible, making moral systems transmissible across persons
+  and generations, and enabling coordination among strangers at scale — each explicable as a
+  selection pressure rather than a normative requirement.
+
+- We identify the specific mechanism through which this advantage operates, by integrating
+  Sperber's epidemiology of representations with Dunbar's anthropological findings on the scaling
+  of social groups: the fitness advantage of logical structure becomes decisive precisely at the
+  scale where personal relationships can no longer sustain coordination and strangers must
+  cooperate on the basis of shared, codified norms.
+  
+- We offer a new reading of the Frege-Geach problem: rather than a deficiency that non-cognitivist
+  accounts must repair, it identifies a structural feature that moral discourse has learned to
+  exploit — the embedding of moral attitudes in deductive form is a rhetorical maneuver that
+  increases transmissibility, not evidence of semantic compositionality.
 
 The account draws on a non-cognitivist starting point in metaethics (§2.1), Dawkins' and
 Sperber's frameworks for cultural transmission (§2.2), Dunbar's anthropological work on the
@@ -599,9 +602,9 @@ particular moral code is correct, nor that morality ought to be logical. We have
 rather, that the logical structure typically demanded of moral systems is best understood as 
 a memetic fitness advantage: a property that moral systems tend to acquire because systems 
 with it outcompete systems without it. The relationship runs not from morality to logic but 
-from logic to better morality. Consistency, universality, and overridingness make moral 
-systems more transmissible, more capable of sustaining cooperation at scale, and more 
-resistant to degradation across generations.
+from logic to better morality. Consistency, universality, and overridingness make moral reasoning and discourse possible,
+make moral systems transmissible across persons and generations, and enable coordination
+among strangers at scale.
 
 This account integrates several bodies of evidence that are not usually brought together. 
 Hare's logical constraints, Dunbar's findings on the scaling of human social groups, Haidt's 
