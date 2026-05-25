@@ -9,7 +9,8 @@ overridingness are properties that moral systems tend to acquire because systems
 properties outcompete systems without them at the level of individual cognition, cultural 
 transmission, and social coordination. The relationship runs not from morality to logic but 
 from logic to better morality: logical structure makes moral reasoning and discourse possible, 
-makes moral systems transmissible across persons and generations, and enables coordination among strangers at scale. A 
+makes moral systems transmissible across persons and generations, and enables coordination 
+among strangers at scale. A 
 striking corollary is that moral philosophers demanding logical coherence are participating 
 in the propagation mechanism rather than uncovering normative structure. 
 
@@ -37,7 +38,7 @@ rivals in the cultural environment. They are easier to transmit, more capable of
 behaviour across large and anonymous populations, and more resistant to degradation as they pass
 between generations and communities. The demand for logical coherence in morality is best
 understood as a memetic fitness advantage, not a normative constraint. Logic makes for better
-morality; morality does not require logic. We should note a tension this creates: fully
+morality, but morality does not require logic. We should note a tension this creates: fully
 abandoning the expectation of logical consistency in moral discourse would make that discourse
 nearly impossible, since logical reasoning is the only tool available for extending moral
 commitments to novel cases and publicly justifying moral positions to others. This tension is not
@@ -57,7 +58,7 @@ This paper makes three contributions:
   of social groups: the fitness advantage of logical structure becomes decisive precisely at the
   scale where personal relationships can no longer sustain coordination and strangers must
   cooperate on the basis of shared, codified norms.
-  
+
 - We offer a new reading of the Frege-Geach problem: rather than a deficiency that non-cognitivist
   accounts must repair, it identifies a structural feature that moral discourse has learned to
   exploit — the embedding of moral attitudes in deductive form is a rhetorical maneuver that
@@ -118,7 +119,14 @@ facts. It is worth noting, however, that constructivists share with us a desire 
 to propagate: to be adopted, acted upon, and transmitted across persons and generations. Where we 
 differ is in thinking that this propagation ambition is prior to and independent of the logical 
 structure they impose. The logical structure is recruited in service of propagation, not the other 
-way around. This observation sits at the heart of the argument that follows.
+way around. This applies even to constructivist moral codes that make non-imposition a central
+virtue. A constructivist who holds that one ought not impose one's moral preferences on others
+still, ideally, wants others to accept this meta-moral principle and adopt the view that
+non-imposition is a virtue. In advocating for tolerance, the constructivist is propagating a
+moral code that includes tolerance as a value. There is no exit from the memetic dynamic: even
+a moral framework designed to resist imposition is itself subject to propagation pressures, and
+the constructivist who holds it participates in those pressures whether or not they acknowledge
+doing so.
 
 A closer ally is Prinz [26], whose sentimentalist account holds that moral concepts are 
 emotionally grounded responses calibrated by cultural learning rather than responses to 
@@ -154,7 +162,7 @@ The concept of the meme, introduced by Dawkins [8] in The Selfish Gene, describe
 transmission that propagates through imitation and communication. Like genes, memes are subject to 
 selection pressures: those that are easier to transmit, more memorable, more generative, and more 
 resistant to corruption tend to outcompete those that lack these properties. Dawkins' original framing 
-was deliberately analogical -- memes behave like genes in a selection environment, without the claim that 
+was deliberately analogical: memes behave like genes in a selection environment, without the claim that 
 cultural transmission is biologically reducible. The analogy is sufficient for our purposes: we want the 
 selection pressure machinery, not the biological reductionism.
 
@@ -169,7 +177,7 @@ closer to memorisation of situation-specific rules. This is more expensive to tr
 vulnerable to degradation across generations.
 
 This gives us a precise sense in which logical structure is a fitness advantage for moral memes. It is 
-not that inconsistent moral systems are impossible or even uncommon -- people hold locally inconsistent 
+not that inconsistent moral systems are impossible or even uncommon. In fact, people hold locally inconsistent 
 moral preferences all the time. It is that systems with enough logical structure to be 
 compressible into a small set of principles from which further judgements can be derived will tend to 
 outcompete more loosely organised rivals in the cultural selection environment, all else being equal. The 
@@ -204,7 +212,7 @@ communal bonding through shared experience and lack formal moral codes justified
 and the doctrinal religions that emerge as civic units grow larger. The latter are characterised by a 
 moralising high god, formal institutional structures, and (most relevant for our purposes) a theologically
 justified moral system that regulates behaviour across a large and otherwise anonymous population. The 
-moral code is not incidental to the religion's social function; it is central to it. A shared moral 
+moral code is not incidental to the religion's social function, but is actually central to it. A shared moral 
 framework makes the behaviour and at least the expressed attitudes of strangers more predictable, which is 
 a precondition for large-scale cooperation. We note, however, that this predictability is partial at best 
 (Haidt [10]), and people frequently do not act on their stated moral convictions, since moral reasoning is 
@@ -250,7 +258,7 @@ analogous to what religious institutions did for doctrinal morality.
 
 Skyrms [11] and Kitcher [12] offer complementary perspectives on the same phenomenon from within analytic 
 philosophy. Skyrms shows that certain normative structures stabilise in populations through iterated 
-game-theoretic dynamics, not because they are correct but because they are equilibria -- no individual 
+game-theoretic dynamics, not because they are correct but because they are equilibria, so that no individual 
 agent has reason to deviate unilaterally. Kitcher frames morality as a long-running collective human 
 project of improving social coordination, with each generation inheriting and revising a moral code shaped 
 by the problems their predecessors faced. Both accounts are compatible with ours, though neither draws the 
@@ -258,34 +266,48 @@ memetic conclusion we draw: that the logical structure of moral systems is itsel
 selected for by the coordination environment, rather than a normative requirement imposed from outside.
 
 Girard's mimetic theory [16] offers a parallel account worth briefly noting. Where Dunbar explains moral 
-codes as coordination technology, Girard sees them as violence-containment technology -- shared 
+codes as coordination technology, Girard sees them as violence-containment technology, i.e. shared 
 prohibitions that channel and redirect the mimetic rivalry that would otherwise tear communities apart. 
 The two accounts are not in competition: a moral code can simultaneously reduce coordination costs and 
 contain mimetic violence, and both functions favour the same structural properties of universality, 
 consistency, and overridingness. Girard's account adds a further dimension to why these properties are 
-fitness advantages -- they are not only cheap to transmit but actively necessary for social stability.
+fitness advantages: they are not only cheap to transmit but actively necessary for social stability.
 
 ### 2.4 Moral Psychology and the Primacy of Intuition
 
-The empirical case for our central claim -- that moral reasoning serves propagation rather than
-action-guidance -- rests most directly on Jonathan Haidt's social intuitionist model of moral
+The empirical case for our central claim that "moral reasoning serves propagation rather than
+action-guidance" rests most directly on Jonathan Haidt's social intuitionist model of moral
 judgement [10]. Haidt's programme of research demonstrates that moral reasoning is, in the
 overwhelming majority of cases, post-hoc rationalisation of judgements that were reached by rapid,
 automatic intuitive processes. In his influential dumbfounding experiments, subjects maintained firm
 moral judgements even when every rational objection they raised was systematically answered,
 eventually conceding that they could not articulate why they held the judgement but holding it
-nonetheless. The reasoning did not produce the judgement; the judgement came first, and the
+nonetheless. The reasoning did not produce the judgement: the judgement came first, and the
 reasoning followed in its service.
 
 This has a direct implication for the role of logical structure in morality. If moral reasoning
-were primarily a guide to action -- if agents consulted their moral framework, derived a judgement,
-and acted on it -- then logical consistency would matter for behavioural reasons. Inconsistent moral
+were primarily a guide to action, so that agents consulted their moral framework, derived a judgement,
+and acted on it, logical consistency would matter for behavioural reasons. Inconsistent moral
 frameworks would produce erratic guidance and therefore erratic behaviour. But if moral reasoning is
 primarily post-hoc, then consistency cannot be doing this work. The behaviour has already happened,
 or the intuitive judgement has already been reached, before the reasoning begins. Logical structure
 must therefore be serving a different function, and we argue that function is social and propagative:
 moral reasoning is how moral attitudes get articulated, defended, shared, and passed on, not how
 they get applied.
+
+A concrete illustration clarifies the point. Even when a moral preference originates in instinct
+or evolutionary adaptation, such as in the near-universal disgust response to fecal matter,
+articulating and advocating for that preference typically requires logical form. Someone who
+objects to fecal transplant research does not present their objection as bare disgust. They
+construct an argument: that unpleasant things should be avoided, that fecal transplant research
+involves unpleasant matter, and that such research should therefore be restricted. This logical
+scaffolding can function either as pre-judgement (the disgust response supplying a premise from
+which a conclusion is drawn) or as post-hoc rationalisation of a position already held. In
+either case, it is not what generated the moral preference, but what makes it publicly expressible
+and contestable. A scientist who does not share the disgust, or who thinks scientific
+considerations should override it, can engage with the argument precisely because it has logical
+form. Logic is the medium through which preferences of any origin —- emotional, instinctual,
+evolutionary —- enter the space of public moral discourse and become available for transmission.
 
 This conclusion is strongly supported by Mercier and Sperber's evolutionary account of reasoning
 itself [24]. They argue that reasoning did not evolve primarily as a tool for individual
@@ -301,19 +323,19 @@ argues that moral judgements arise from two systems: a fast, automatic, emotiona
 generates strong intuitive responses, and a slower, deliberative, reasoning system that can override
 intuitions in sufficiently reflective conditions. On Greene's account, the deliberative system is
 genuinely action-guiding in some cases, particularly in conditions of calm reflection on unfamiliar
-dilemmas. This is a partial concession to the pre-commitment function we discuss in section 3.3
--- logical moral reasoning does sometimes shape what people decide to do, particularly in novel or
+dilemmas. This is a partial concession to the pre-commitment function we discuss in section 3.3:
+logical moral reasoning does sometimes shape what people decide to do, particularly in novel or
 high-stakes situations where intuitions are absent or conflicting. But this is the exception rather
 than the rule. For the vast majority of moral judgements in everyday life, the intuitive system
 dominates, and reasoning serves rationalisation.
 
-Taken together, Haidt and Greene support a picture in which explicit moral reasoning -- the kind
-that requires and rewards logical consistency -- operates at the margins of actual moral behaviour.
+Taken together, Haidt and Greene support a picture in which explicit moral reasoning (the kind
+that requires and rewards logical consistency) operates at the margins of actual moral behaviour.
 It is most active precisely where behaviour is least determined: in unfamiliar dilemmas, in public
 justification of positions to others, and in the transmission of moral attitudes across generations
 and social groups. These are exactly the contexts where propagation matters most. A moral framework
 that can generate consistent, universalisable, publicly defensible reasoning about novel cases is a
-framework that travels well -- across persons, communities, and time. The logical structure is not
+framework that travels well across persons, communities, and time. The logical structure is not
 what drives the moral intuitions, but it is what makes them exportable.
 
 If moral reasoning were primarily action-guiding, philosophers demanding consistency would be
@@ -384,7 +406,7 @@ level of individual cognition and is a precondition for the other two roles.
 
 The second role is pre-commitment. Agents use consistent moral frameworks to decide in advance
 how they would feel about and respond to situations they have not yet faced. This is a genuinely
-useful cognitive function -- it reduces the deliberative cost of novel moral situations and
+useful cognitive function because it reduces the deliberative cost of novel moral situations and
 provides a stable basis for social commitments and expectations. It draws on the formal
 decision-theoretic insight that consistent preference orderings are easier to act on than
 inconsistent ones [23]. But we should be careful about how strong a claim this supports.
@@ -405,7 +427,7 @@ gone wrong.
 The third and most consequential role is social propagation. A moral system with enough logical
 structure to be compressible into a small set of principles from which further judgements can be
 derived will tend to outcompete more loosely organised rivals in the cultural selection
-environment. It is cheaper to transmit -- a consistent framework can be reconstructed from
+environment. It is cheaper to transmit, since a consistent framework can be reconstructed from
 partial information and applied to novel cases without central coordination. Violations of a consistent 
 code generate visible contradictions that inconsistent codes do 
 not, making defection easier to challenge and harder to ignore. And it supports larger-scale social 
@@ -470,15 +492,15 @@ tend to acquire these properties and why the impression that individual moral co
 requires logical structure seems so compelling.
 
 The demand for moral consistency is one of the most successful features of the secular moral 
-meme -- it is what secular moral systems rely on in the absence of the institutional apparatus 
+meme. It is what secular moral systems rely on in the absence of the institutional apparatus 
 that religious moral systems have historically used to ensure propagation [14, 15, 16].
 
 This means that moral philosophers demanding logical coherence are participating in the propagation
 mechanism rather than standing outside it and evaluating morality from a normative vantage point.
 Philosophy faculties, journals, and the tradition of moral argument are doing something functionally
 analogous to what the church did for religious morality: maintaining, refining, and transmitting
-a consistent moral code across generations. The tools are different -- argument rather than ritual,
-publication rather than sermon -- but the function is the same. This is not a criticism of moral
+a consistent moral code across generations. The tools are different: argument rather than ritual,
+publication rather than sermon, but the function is the same. This is not a criticism of moral
 philosophy. Participating in the propagation mechanism of a moral system that enables large-scale
 human cooperation and flourishing is a valuable thing to do. A commonplace attitude in philosophy holds 
 that a philosopher must follow their premises wherever they lead. We reject this view.
@@ -653,7 +675,7 @@ to moral reasoning differently from one that treats consistency as a primary vir
 these underlying frameworks diverge — across languages, cultural traditions, or forms of 
 moral community — cross-community moral communication encounters a distinctive kind of 
 friction. The moral meme must fit existing cognitive and discursive dispositions in order to 
-propagate; where those dispositions differ substantially, even a logically coherent moral 
+propagate. Where those dispositions differ substantially, even a logically coherent moral 
 system may fail to cross communal boundaries. The fitness advantage of logical structure is 
 not therefore context-independent: it operates within the presuppositions shared by a given 
 community, and its effectiveness as a propagation resource diminishes when those 
