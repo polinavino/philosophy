@@ -18,6 +18,8 @@ in the propagation mechanism rather than uncovering normative structure.
 
 # Speaking Freely: A Causal-Transparency Account of Type 3 Speech Constraints
 
+[free-speech](https://github.com/polinavino/philosophy/blob/main/free-speech.md)
+
 ## Abstract 
 
 Free speech is invoked constantly in political and legal discourse, but there is no widely agreed
