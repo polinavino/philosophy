@@ -334,6 +334,13 @@ fully free with respect to some topics in some contexts while substantially cons
 respect to others. This parametrisation changes the structure of
 the analysis.
 
+We should note that T and C are not formally distinguished in the present analysis: the pair
+(T, C) is always treated as a unit. The topic parameter is a convenience for picking out cases
+where a specific subject matter is salient, e.g. free speech about political affairs, about personal
+life, or about professional conduct, rather than a structurally necessary component of the
+framework. A purely context-based parametrisation would be equally adequate for the analysis
+performed here.
+
 Censorship is the clearest example. A state that punishes political dissent does not globally
 suppress speech. Rather, it disrupts the recoverability condition in specific cells, say, political
 criticism, public forum, while leaving others intact. What is restricted is a targeted subset
