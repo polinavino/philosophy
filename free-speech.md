@@ -74,8 +74,10 @@ objections. Section 7 concludes and identifies directions for future work.
 
 ### 2.1 Lowe's Taxonomy of Speech Constraints
 
-Rebecca Lowe's "Speaking Freely" project [1] offers the most useful structural starting point. Lowe 
-proposes that obstructions to free speech fall into three hierarchically related types, and that public 
+Rebecca Lowe's "Speaking Freely" project [1] offers the most useful structural starting point.
+We draw on Lowe's taxonomy as presented in a Substack essay and podcast discussion. This work is
+in progress and no peer-reviewed version is yet available. Lowe proposes that obstructions to
+free speech fall into three hierarchically related types, and that public 
 discourse on free speech would be substantially clarified by specifying which type is operative in any 
 contested case before arguing about entitlement.
 
@@ -217,11 +219,18 @@ interlocutor's beliefs admit a similar distortion. The distortion is part of the
 context, used in recovering the causal pathway. What falls outside scope is the case where
 the information environment is itself not shared.
 
-The conditions are not fully independent. State-mandated restrictions on vocabulary illustrate
-this: they appear to operate on condition (b), modifying the shared communicative medium, but
-their intended effect is to constrain what the speaker can think and express, reaching into
-the domain of Type 0. A single intervention can thus affect multiple conditions simultaneously,
-in ways that resist clean categorisation. This overlap is outside the scope of this paper.
+The conditions are not fully independent, and government intervention can target each level
+distinctly. Persecuting the use of minority languages operates at Type 1: it severs the ability
+of one generation to speak to the next in their own language, removing expressive capacity even
+when speakers remain cognitively capable of forming the relevant thoughts. Such persecution can
+also cause upstream effects at Type 0 over time -- a language denied intergenerational
+transmission eventually ceases to be a living conceptual resource, removing with it the substrate
+through which certain thoughts are most naturally formed. Newspeak-style vocabulary restriction
+is a milder instance of the same dynamic: constraining expression at Type 1 with potential
+long-run Type 0 consequences. At Type 2, government control of communicative infrastructure
+severs or filters channels before any question of cost on expression arises. All three forms
+of intervention foreclose the preconditions our analysis takes as given rather than operating
+within them, and a full treatment lies outside the scope of this paper.
 
 In section 5 we treat the cost of making the causal pathway transparent as a scalar quantity.
 This is a significant simplification. The costs a speaker faces may be incommensurable: social
@@ -512,13 +521,20 @@ but becomes recoverable under adjacent conditions.
 We limit the scope of the present analysis by several assumptions.
 Using our model to study free speech 
 outside of these assumptions constitutes natural directions of future work.
-First, the account assumes that the information environment shaping belief-
-formation is mutually known between speaker and interlocutor, but does not require it to be
-accurate. Analysis of whether anything can be said about restriction of speech freedom via 
-incorrect information (i.e. subversion of our Type 0 constraint) is left open. Second,
-state-mandated changes to permissible vocabulary sit at the intersection of our Types 0 and Lowe's 2:
-they alter both the shared linguistic context and the speaker's expressive options, and the
-precise location of this constraint in the taxonomy merits further analysis. Third, the cost
+First, the account assumes that the information environment shaping belief-formation is mutually
+known between speaker and interlocutor, but does not require it to be accurate. The Type 0
+condition -- the speaker's capacity to formulate certain thoughts in the first place -- is itself
+downstream of institutional arrangements: education quality, freedom of the press, and access to
+diverse information sources all determine what communicative intentions are available to a speaker
+before any utterance is attempted. Restricting these is a mode of constraining free speech that
+operates entirely upstream of the causal-transparency condition, and analysing it falls outside
+the present framework. 
+
+Second, the forms of government intervention described in section 3 -- minority language
+persecution and vocabulary restriction at Type 1, their downstream Type 0 consequences, and
+infrastructure control at Type 2 -- foreclose the preconditions the causal-transparency
+condition takes as given. How these relate to Type 3 constraints, and whether a unified account
+can address all four levels, remains open. Third, the cost
 structure that determines the degree of freedom is treated here as linear, fixed, and consistent
 across all agents. The capacity of an agent to assess this cost is assumed. Fourth, the present
 account assumes the speaker has an accurate model of what the competent interlocutor can recover.
