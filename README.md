@@ -38,3 +38,36 @@ which frames the outer limit of what the account can address. We connect the acc
 thinker-based theory, Grice's inferability conditions, Langton and Hornsby's illocutionary silencing,
 and Bejan's isegoria/parrhesia distinction, and relate it to the principled basis for existing legal
 protections of speech.
+
+# Manipulation as Cost-Imposition: An Addendum to the Causal-Transparency Account
+
+[manipulation](https://github.com/polinavino/philosophy/blob/main/manipulation.md)
+
+## Abstract
+
+The causal-transparency account of free speech [1] treats Types 1 and 2 of the Lowe taxonomy
+as background conditions rather than sites of analysis. This addendum argues that manipulation
+can operate at all four levels. We define manipulation as the introduction of obstacles to a target's capacity to formulate,
+express, or act on a view, which are obstacles not present before the interaction and that serve the
+manipulator's ends rather than the target's. A necessary condition we introduce specificity: the obstacles
+must attach to the act of maintaining the view in particular, not to the interaction as a whole.
+The obstacle takes a different form at each level: corrupted belief formation at Type 0, removed
+expressive capacity at Type 1, severed communicative channel at Type 2, and raised cost of
+expression at Type 3.
+
+We show that manipulation-occurrence, free speech status, and culpability are three independent
+conditions that must be tracked separately, illustrating this with examples.
+We extend the account to lying as a form of
+manipulation that operates through the epistemic environment rather than the relational one, and
+show that it is exclusively a Type 0 phenomenon.
+
+We survey the principal contexts in which the mechanism appears, including emotional manipulation,
+gaslighting, propaganda, coercive control, official language control, channel control, and
+commercial manipulation, and show that each is an instance of the same structural account.
+We then develop a diagnostic. The primary criterion is whether the target's capacity to speak
+freely on the affected topic has been undermined: successful manipulation always produces this
+effect. Because this criterion is harder to apply at deeper levels (the effect is unfelt at
+Type 0 and invisible to the target at Types 1 and 2) we introduce intent as a complementary
+diagnostic: evidence that obstacles were specifically designed to track resistance to a
+particular view is evidence that the mechanism is operative, even when its effect cannot be
+directly observed.
