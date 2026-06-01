@@ -58,11 +58,11 @@ Our main contributions are as follows.
    pairs rather than being a binary global property. Suppression in one cell propagates along inferential
    connections to adjacent cells, making the topology of constrained speech analytically tractable.
 
-4. **Integration of Bejan's isegoria/parrhesia and the willingness-to-reveal property.** Isegoria
-   (equal access to communicative arenas) maps onto cell access, whereas parrhesia (the disposition
-   to speak frankly at personal cost) maps onto the within-cell causal-transparency condition.
-   We identify willingness-to-reveal as a distinct parrhesiastic property, best studied via a
-   network of contexts adjacent to the original (T, C) cell.
+4. **Formal content for Bejan's isegoria/parrhesia and the willingness-to-reveal property.**
+   Isegoria is identified with the conjunction of Types 0, 1, and 2: having a thought one can
+   form, express, and transmit to a reachable interlocutor. Parrhesia maps onto the within-cell
+   causal-transparency condition. We identify willingness-to-reveal as a distinct parrhesiastic
+   property, best studied via a network of contexts adjacent to the original (T, C) cell.
 
 Section 2 surveys related work, situating the account relative to Lowe, Shiffrin, Grice, Langton and
 Hornsby, and Bejan. Section 3 states the simplifying assumptions the framework relies on. Section 4
@@ -195,9 +195,11 @@ utterances. A speaker may be fully parrhesiastic within the cells available to t
 isegoria-style access to cells where their speech would carry weight. These are distinct dimensions of 
 free speech, and our framework keeps them analytically separate.
 
-Bejan's project is historical and political rather than analytical. She does not offer a definition of what 
-makes speech free. Our account uses her distinction as the motivation for a structural feature of the 
-analysis and gives it formal content.
+Bejan's project is historical and political rather than analytical. She does not offer a definition of
+what makes speech free. Our account uses her distinction as the motivation for a structural feature of
+the analysis and gives it formal content: in section 5.1 we show that isegoria, on our analysis, is
+precisely the conjunction of Lowe's Types 0, 1, and 2 -- the access conditions that determine whether
+a given utterance is reachable by the speaker at all.
 
 ## 3 Simplifying Assumptions
 
@@ -363,17 +365,19 @@ economic policy without risk may also be unable to discuss adjacent topics, e.g.
 precedents, welfare statistics, etc., that would implicate the same conclusions. Suppression
 propagates along inferential connections in the topic-space.
 
-Isegoria concerns a different dimension of the same structure. Whereas the causal-transparency
-condition asks whether a speaker's utterance is freely produced within a given (T, C) cell,
-isegoria asks which cells can be accessed by the speaker at all. Access to a cell requires
-reachable interlocutors who can engage with it and recognise the speaker's communicative
-intentions, i.e. give it uptake in the sense of section 2.3. It is the context that confers 
-appropriate authority on those intentions: different
-platforms, roles, and institutional settings give the same words different weight. A speaker 
-may satisfy the causal-transparency condition
-fully within the cells available to them while lacking isegoria-style access to cells where
-their speech would carry weight. These are distinct dimensions of free speech. Bejan's parrhesia
-maps onto the former, and her isegoria maps onto the latter.
+Isegoria concerns a different dimension. Whereas the causal-transparency condition asks whether
+a speaker's utterance is freely produced within a given (T, C) cell, isegoria asks which cells
+can be accessed by the speaker at all. On our analysis, isegoria is precisely the condition
+that Types 0, 1, and 2 are jointly satisfied: the speaker can form the thought in question
+(Type 0), express it in the appropriate linguistic form (Type 1), and transmit it via an
+available channel to a reachable interlocutor (Type 2). Where any of these fails, the utterance
+is not in the speaker's reach -- not because the causal pathway is opaque, but because the
+speaker cannot arrive at the utterance in the first place. Moreover, it is the context that confers
+appropriate authority on an utterance: different platforms, roles, and institutional settings
+give the same words different weight. A speaker may satisfy the causal-transparency condition
+fully within the cells isegoria grants them while lacking access to cells where their speech
+would carry comparable weight. Bejan's parrhesia maps onto the former; her isegoria, on our
+analysis, is the conjunction of Types 0-2 access.
 
 ### 5.2 Degree of Freedom and Willingness-to-Reveal
 
@@ -505,11 +509,10 @@ with lying, while unintentional omission involves no engineering of opacity and 
 The (T,C) parametrisation captures the structure of partial suppression. Freedom is a field over
 topic-context pairs, not a binary global property, and suppression propagates along inferential
 connections between topics in ways that make the topology of constrained cells a substantive
-empirical and normative question. Bejan's distinction between isegoria and parrhesia maps
-naturally onto the framework: isegoria corresponds to access to (T,C) cells, i.e. which 
-contexts are reachable and the associated authority
-they confer, and parrhesia corresponds to within-cell causal transparency, which is the condition we
-have been analysing throughout.
+empirical and normative question. Bejan's distinction between isegoria and parrhesia receives formal content within the framework:
+isegoria is identified with the conjunction of Types 0, 1, and 2: the access conditions that
+determine whether a given utterance is reachable by the speaker at all, while parrhesia
+corresponds to the within-cell causal-transparency condition we have been analysing throughout.
 
 A related property, willingness-to-reveal, tracks whether a speaker would make the pathway
 transparent if directly asked. This property is best studied via a network of contexts adjacent
