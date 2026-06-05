@@ -16,8 +16,9 @@ propagation of suppression through inferentially connected topics is analyticall
 extend Lowe's taxonomy with a Type 0 category for obstructions at the level of thought-formation,
 which frames the outer limit of what the account can address. We connect the account to Shiffrin's
 thinker-based theory, Grice's inferability conditions, Langton and Hornsby's illocutionary silencing,
-and Bejan's isegoria/parrhesia distinction, and relate it to the principled basis for existing legal
-protections of speech.
+and Bejan's isegoria/parrhesia distinction. We relate the account to existing legal protections
+of speech and argue that hate speech is orthogonal to the freedom question: it is restricted on
+grounds of harm to the target, not on any property of the speaker's causal pathway.
 
 ## 1 Introduction
 
@@ -67,8 +68,8 @@ Our main contributions are as follows.
 Section 2 surveys related work, situating the account relative to Lowe, Shiffrin, Grice, Langton and
 Hornsby, and Bejan. Section 3 states the simplifying assumptions the framework relies on. Section 4
 gives the definition and applies it to key cases. Section 5 extends the account to degree of freedom,
-topic-context parametrisation, and the willingness-to-reveal property. Section 6 addresses two
-objections. Section 7 concludes and identifies directions for future work.
+topic-context parametrisation, and the willingness-to-reveal property. Section 6 addresses two objections and applies the framework to free speech law and hate speech.
+Section 7 concludes and identifies directions for future work.
 
 ## 2 Related Work
 
@@ -376,7 +377,7 @@ speaker cannot arrive at the utterance in the first place. Moreover, it is the c
 appropriate authority on an utterance: different platforms, roles, and institutional settings
 give the same words different weight. A speaker may satisfy the causal-transparency condition
 fully within the cells isegoria grants them while lacking access to cells where their speech
-would carry comparable weight. Bejan's parrhesia maps onto the former; her isegoria, on our
+would carry comparable weight. Bejan's parrhesia maps onto the former, and her isegoria, on our
 analysis, is the conjunction of Types 0-2 access.
 
 ### 5.2 Degree of Freedom and Willingness-to-Reveal
@@ -485,6 +486,34 @@ utterance because an informer is present is operating in a different context fro
 not, and the freedom condition (including its cost of transparency) applies to the expanded
 context accordingly.
 
+### 6.3 Free Speech Law and Hate Speech
+
+Free speech law can be understood within the framework as fixing a specific (T, C) cell: the
+context in which a speaker addresses, or may be heard by, state officials, under conditions
+where non-legal social consequences are not at issue. A free speech law, on this reading, is a
+guarantee that the legal cost of transparency in that cell will not be raised above a threshold.
+This gives the framework a natural interpretation of what free speech legislation does: it is a
+commitment about the cost structure in a specific (speaker, state, public) context, not a claim
+about all speech in all contexts.
+
+Hate speech is a different kind of case and is orthogonal to the freedom question. Whether a
+speaker's utterance is freely produced, i.e. whether the pathway from their communicative
+intentions to the utterance is recoverable, says nothing about the effects that utterance
+has on its targets. Hate speech directed at a group can be completely free in our sense: the
+speaker's intentions are transparent, the pathway recoverable, and no one is coercing them.
+The grounds for restricting it are not about freedom at all. Rather, they are about foreseeable harm
+to the target. Speech that predictably and causally raises the risk of legally quantifiable
+harm to identifiable others, e.g. an increased threat of violence, functions like
+paying a third party to cause that harm. It is an act that produces real-world consequences
+independently of whether the speaker's pathway was transparent. Restricting it is not a
+restriction on free speech, but a limit on a category of harmful acts that happen to take
+a verbal form.
+
+This completes the picture sketched in section 6.1. The speech that law restricts falls into
+two categories: speech that is already unfree in our sense (lying with an identifiable victim,
+deception producing harm), and speech restricted on grounds orthogonal to freedom (hate speech
+as harm to target, incitement as causal contribution to crime). 
+
 ## 7 Conclusion and Future Work
 
 This paper has proposed a causal-transparency account of Type 3 speech constraints. Rather than
@@ -505,6 +534,8 @@ pathway remains recoverable from shared context. Coercion severs the causal path
 while censorship raises the cost of transparency without
 necessarily severing it. Both reduce the degree of freedom. Intentional omission groups
 with lying, while unintentional omission involves no engineering of opacity and is not a freedom violation.
+Existing speech law restricts either unfree speech or speech harmful independently of its freedom
+status. Hate speech falls in the latter category and is orthogonal to the freedom question.
 
 The (T,C) parametrisation captures the structure of partial suppression. Freedom is a field over
 topic-context pairs, not a binary global property, and suppression propagates along inferential

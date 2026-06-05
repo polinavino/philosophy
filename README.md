@@ -36,8 +36,9 @@ propagation of suppression through inferentially connected topics is analyticall
 extend Lowe's taxonomy with a Type 0 category for obstructions at the level of thought-formation,
 which frames the outer limit of what the account can address. We connect the account to Shiffrin's
 thinker-based theory, Grice's inferability conditions, Langton and Hornsby's illocutionary silencing,
-and Bejan's isegoria/parrhesia distinction, and relate it to the principled basis for existing legal
-protections of speech.
+and Bejan's isegoria/parrhesia distinction. We relate the account to existing legal protections
+of speech and argue that hate speech is orthogonal to the freedom question: it is restricted on
+grounds of harm to the target, not on any property of the speaker's causal pathway.
 
 # Manipulation as Cost-Imposition: An Addendum to the Causal-Transparency Account
 
