@@ -35,10 +35,13 @@ tactical speech is free, coercion and censorship reduce degree of freedom on a c
 propagation of suppression through inferentially connected topics is analytically tractable. We 
 extend Lowe's taxonomy with a Type 0 category for obstructions at the level of thought-formation,
 which frames the outer limit of what the account can address. We connect the account to Shiffrin's
-thinker-based theory, Grice's inferability conditions, Langton and Hornsby's illocutionary silencing,
-and Bejan's isegoria/parrhesia distinction. We relate the account to existing legal protections
-of speech and argue that hate speech is orthogonal to the freedom question: it is restricted on
-grounds of harm to the target, not on any property of the speaker's causal pathway.
+thinker-based theory, Grice and post-Gricean accounts of inferability, the Austin-Searle speech
+act tradition (including Langton, Hornsby, and McGowan on illocutionary silencing and
+conversational kinematics), Bejan's isegoria/parrhesia distinction, and the broader free
+speech tradition (Mill, Schauer). We relate the account to
+existing legal protections of speech and argue that hate speech is orthogonal to the freedom
+question: it is restricted on grounds of harm to the target rather than any property of the
+speaker's causal pathway. 
 
 # Manipulation as Cost-Imposition: An Addendum to the Causal-Transparency Account
 
