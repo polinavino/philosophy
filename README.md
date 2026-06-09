@@ -1,20 +1,25 @@
-# Why Morality Doesn't Need to Be Logical and Why It Usually Is Anyway: A Non-Cognitivist Account of Moral Consistency as Memetic Fitness Rather than Normative Constraint
+# Logical Structure as Memetic Fitness: A Non-Cognitivist Account of Moral Consistency
 
 [logic-morality](https://github.com/polinavino/philosophy/blob/main/logic-morality.md)
 
 ## Abstract 
 
-We begin with a non-cognitivist premise: moral statements express preferences rather than 
-truth-apt propositions. We argue that the logical structure typically demanded of moral systems 
-is not a normative constraint but a memetic fitness advantage. Consistency, universality, and 
-overridingness are properties that moral systems tend to acquire because systems with these 
-properties outcompete systems without them at the level of individual cognition, cultural 
-transmission, and social coordination. The relationship runs not from morality to logic but 
-from logic to better morality: logical structure makes moral reasoning and discourse possible, 
-makes moral systems transmissible across persons and generations, and enables coordination 
-among strangers at scale. A 
-striking corollary is that moral philosophers demanding logical coherence are participating 
-in the propagation mechanism rather than uncovering normative structure. 
+We propose a non-cognitivist account of why moral systems converge on logical structure. The
+mechanism is memetic selection at the scale where personal acquaintance fails: above the
+threshold Dunbar identifies, cooperation between strangers requires moral codes that can be
+transmitted from partial information, applied without central adjudication, and used to make
+public commitments credible. Logical structure -- consistency, universalisability,
+overridingness -- is what makes a moral code do these things efficiently. We integrate Sperber's
+epidemiology of cultural representations with Dunbar's anthropology of religion to identify the
+specific selection environment in which logical structure becomes fitness-decisive, then trace
+its implications. The descriptive/normative dichotomy follows as a consequence: logical
+structure is not a normative requirement on individual moral preferences but a selected feature
+of moral systems that succeed in propagation. A striking corollary is that moral philosophers
+demanding logical coherence are participating in the propagation mechanism rather than
+uncovering normative structure. We offer a new reading of the Frege-Geach problem along the way:
+rather than a defect non-cognitivists must repair, it identifies a structural feature -- the
+embedding of moral attitudes in deductive form -- that moral discourse both exploits for
+transmission and uses cooperatively to make moral preferences publicly inspectable. 
 
 # Speaking Freely: A Causal-Transparency Account of Type 3 Speech Constraints
 

@@ -1,18 +1,23 @@
-# Why Morality Doesn't Need to Be Logical and Why It Usually Is Anyway: A Non-Cognitivist Account of Moral Consistency as Memetic Fitness Rather than Normative Constraint
+# Logical Structure as Memetic Fitness: A Non-Cognitivist Account of Moral Consistency
 
 ## Abstract 
 
-We begin with a non-cognitivist premise: moral statements express preferences rather than 
-truth-apt propositions. We argue that the logical structure typically demanded of moral systems 
-is not a normative constraint but a memetic fitness advantage. Consistency, universality, and 
-overridingness are properties that moral systems tend to acquire because systems with these 
-properties outcompete systems without them at the level of individual cognition, cultural 
-transmission, and social coordination. The relationship runs not from morality to logic but 
-from logic to better morality: logical structure makes moral reasoning and discourse possible, 
-makes moral systems transmissible across persons and generations, and enables coordination 
-among strangers at scale. A 
-striking corollary is that moral philosophers demanding logical coherence are participating 
-in the propagation mechanism rather than uncovering normative structure. 
+We propose a non-cognitivist account of why moral systems converge on logical structure. The
+mechanism is memetic selection at the scale where personal acquaintance fails: above the
+threshold Dunbar identifies, cooperation between strangers requires moral codes that can be
+transmitted from partial information, applied without central adjudication, and used to make
+public commitments credible. Logical structure -- consistency, universalisability,
+overridingness -- is what makes a moral code do these things efficiently. We integrate Sperber's
+epidemiology of cultural representations with Dunbar's anthropology of religion to identify the
+specific selection environment in which logical structure becomes fitness-decisive, then trace
+its implications. The descriptive/normative dichotomy follows as a consequence: logical
+structure is not a normative requirement on individual moral preferences but a selected feature
+of moral systems that succeed in propagation. A striking corollary is that moral philosophers
+demanding logical coherence are participating in the propagation mechanism rather than
+uncovering normative structure. We offer a new reading of the Frege-Geach problem along the way:
+rather than a defect non-cognitivists must repair, it identifies a structural feature -- the
+embedding of moral attitudes in deductive form -- that moral discourse both exploits for
+transmission and uses cooperatively to make moral preferences publicly inspectable. 
 
 ## 1 Introduction
 
@@ -60,17 +65,50 @@ This paper makes three contributions:
   cooperate on the basis of shared, codified norms.
 
 - We offer a new reading of the Frege-Geach problem: rather than a deficiency that non-cognitivist
-  accounts must repair, it identifies a structural feature that moral discourse has learned to
-  exploit — the embedding of moral attitudes in deductive form is a rhetorical maneuver that
-  increases transmissibility, not evidence of semantic compositionality.
+  accounts must repair, it identifies a structural feature that moral discourse both exploits for
+  transmission and uses cooperatively to make moral preferences publicly inspectable. The embedding
+  of moral attitudes in deductive form is not evidence of semantic compositionality but a
+  fitness-enhancing structural pattern that serves both functions at once.
 
-The account draws on a non-cognitivist starting point in metaethics (§2.1), Dawkins' and
-Sperber's frameworks for cultural transmission (§2.2), Dunbar's anthropological work on the
-scaling of human social groups (§2.3), and the moral psychology literature on the post-hoc
-character of moral reasoning (§2.4). The central argument (§3) applies these resources to the
-three structural properties most consistently demanded of moral systems. We address the principal
-objections in §4 — the Frege-Geach problem, the debunking worry, and the relativism objection —
-and draw conclusions in §5.
+A note on scope before proceeding. The argument operates at two distinct levels and applies
+different claims to each. Individual morality, i.e. the set of moral preferences a particular
+person holds, can in principle be entirely arbitrary, locally inconsistent across cases, and
+revisable. We make no claim that it must have logical structure. The only intrinsic constraint
+is that an individual cannot reason about their own moral commitments deliberately without
+treating them as if they had logical structure, and the cost of refusing this is paid by the
+individual alone.
+
+Society-level morality is the partly shared framework circulating in a population. It cannot be
+specified accurately, since it is a heterogeneous distributed object: different individuals
+understand the same norms differently, subscribe to them to different degrees, and apply them
+inconsistently. Even where a single nominal moral authority exists, individuals subscribe to it
+more or less. What is shared resembles a distribution of approximations rather than a single
+specification. Whatever moral framework propagates as a partly-shared social object will,
+however, have logical structure.
+
+The two levels are not insulated from each other. Society-level morality exerts continuous
+pressure on individual morality through the institutions in which individuals participate:
+families, schools, workplaces, religious communities, legal systems, and media. Individual moral
+preferences are therefore not only intrinsically free of logical-structure constraints but also
+shaped, in practice, by participation in institutions that propagate logically-structured moral
+frameworks. The arbitrary individual morality available in principle is rarely the individual
+morality observed in practice.
+
+The fitness claim of this paper concerns society-level morality directly, and individual
+morality indirectly via this institutional channel. The descriptive/normative dichotomy concerns
+the system level: logic is not a normative requirement on individual moral preferences, but a
+selected feature of moral systems that succeed in propagation, and one that propagates downward
+to individuals through their institutional participation.
+
+The account draws on a non-cognitivist starting point in metaethics (section 2.1), Dawkins' and
+Sperber's frameworks for cultural transmission (section 2.2), Dunbar's anthropological work on
+the scaling of human social groups (section 2.3), and Mercier and Sperber's account of reasoning
+as a social faculty together with the empirical moral psychology literature (section 2.4). We
+engage Sterelny's competing naturalist account of moral norms and Schroeder's contemporary
+reconstruction of expressivist inference as the closest existing positions. The central argument
+(section 3) applies these resources to the three structural properties most consistently demanded
+of moral systems. We address the principal objections in section 4 -- the Frege-Geach problem,
+the debunking worry, and the relativism objection -- and draw conclusions in section 5.
 
 ## 2 Related work
 
@@ -107,6 +145,18 @@ deficiency to be repaired, we treat it as a feature that correctly reflects the 
 statements. The appearance that morality must be logically structured (the intuition that drives both 
 Hare's universalisability constraint and Blackburn's quasi-realist project) is what we set out to 
 explain. Our explanation will be memetic rather than normative.
+
+Schroeder [33] offers the most sophisticated contemporary attempt to recover logical inference for
+non-cognitivists. His biforcated attitude semantics assigns "being for" attitudes to act-types
+and derives inference patterns from the logical structure of these attitudes rather than from
+propositional content. Like Blackburn, Schroeder's project is reconstructive: he aims to vindicate
+the apparent logical behaviour of moral discourse from an expressivist base. We part ways with
+both for the same reason. The Frege-Geach problem identifies what looks like a defect in
+non-cognitivism only if one assumes moral discourse must support logical inference. We argue
+instead that the appearance of logical inference is itself the phenomenon to be explained: a
+fitness property of moral systems that propagate. The reconstructive ambition of quasi-realism
+and biforcated attitude semantics is in tension with this explanatory project, since both treat
+as a given what we treat as the explanandum.
 
 We also depart from constructivist accounts of morality, notably Rawls [6] and 
 Korsgaard [7]. Both argue that moral norms are constructed rather than discovered in some 
@@ -246,14 +296,17 @@ rules become necessary. The fitness advantage of logical structure is therefore 
 becomes decisive precisely where the intimacy of small-group life gives way to the anonymity of 
 large-scale society.
 
-This also explains why the institutional apparatus matters so much. Dunbar's account of how major world 
-religions propagated their moral codes points to the role of priestly hierarchies, centralised 
-bureaucracies, and formal rituals in sustaining transmission across generations [14]. A logically 
-structured moral code can propagate further and more reliably with such an apparatus behind it. 
-However, in the absence of that apparatus, logical structure is what a moral meme has to rely on almost 
-entirely. Secular moral systems lack the church, the priesthood, and the ritual. What they have is 
-philosophy, education, and the internal generative power of a consistent framework. This is why, as we 
-argue in section 3.5, moral philosophers demanding logical coherence are doing something functionally 
+This also explains why the institutional apparatus matters so much. Dunbar's account of how major
+world religions propagated their moral codes points to the role of priestly hierarchies,
+centralised bureaucracies, and formal rituals in sustaining transmission across generations [14].
+A logically structured moral code can propagate further and more reliably with such an apparatus
+behind it. Secular moral systems lack the church, the priesthood, and the ritual. What they have
+are philosophy, education, schools, legal institutions, workplaces, and media. None of these
+carry the kind of binding authority that historical religious institutions did, particularly not
+the credibility of supernatural monitoring that Norenzayan [27] argues was central to enforcing
+moral commitments across strangers. In the absence of comparable institutional authority, logical
+structure is what a secular moral meme has to rely on almost entirely. This is why, as we argue
+in section 3.5, moral philosophers demanding logical coherence are doing something functionally
 analogous to what religious institutions did for doctrinal morality.
 
 Skyrms [11] and Kitcher [12] offer complementary perspectives on the same phenomenon from within analytic 
@@ -264,6 +317,26 @@ project of improving social coordination, with each generation inheriting and re
 by the problems their predecessors faced. Both accounts are compatible with ours, though neither draws the 
 memetic conclusion we draw: that the logical structure of moral systems is itself a fitness property 
 selected for by the coordination environment, rather than a normative requirement imposed from outside.
+
+Sterelny [30, 31] is the closest existing competitor to the present paper. He develops a sustained
+naturalist account of how moral norms scaffold cooperation, emphasising apprentice learning and
+collective intentionality as the mechanisms by which moral norms are transmitted, applied, and
+revised across generations. Where Sterelny grounds moral norms in cooperation-scaffolding via the
+cognitive and social machinery available to small-scale human groups, we focus on the specific
+structural properties (consistency, universalisability, overridingness) of moral systems that
+succeed at the larger scale Dunbar identifies. These accounts are compatible but distinct.
+Sterelny is asking how moral norms arise and are sustained, while we are asking why moral systems that
+propagate at scale converge on the specific logical structure they do. The fitness pressure for
+logical structure is, on our account, decisive precisely at the threshold where Sterelny's
+apprentice-learning mechanisms run out -- the same threshold Dunbar identifies.
+
+Henrich's work on the cultural evolution of moral norms [32] supplies empirical grounding for
+much of the propagation story. His findings on how church-mediated kinship reorganisation in
+medieval Europe shaped the psychological profile of WEIRD populations are particularly relevant
+to the institutional-apparatus argument above: they document a specific historical case in
+which a logically structured moral framework, backed by a coordinating institution, restructured
+the moral psychology of the populations that adopted it. We mark this as the natural empirical
+development of the theoretical argument made here.
 
 Girard's mimetic theory [16] offers a parallel account worth briefly noting. Where Dunbar explains moral 
 codes as coordination technology, Girard sees them as violence-containment technology, i.e. shared 
@@ -276,24 +349,27 @@ fitness advantages: they are not only cheap to transmit but actively necessary f
 ### 2.4 Moral Psychology and the Primacy of Intuition
 
 The empirical case for our central claim that "moral reasoning serves propagation rather than
-action-guidance" rests most directly on Jonathan Haidt's social intuitionist model of moral
-judgement [10]. Haidt's programme of research demonstrates that moral reasoning is, in the
-overwhelming majority of cases, post-hoc rationalisation of judgements that were reached by rapid,
-automatic intuitive processes. In his influential dumbfounding experiments, subjects maintained firm
-moral judgements even when every rational objection they raised was systematically answered,
-eventually conceding that they could not articulate why they held the judgement but holding it
-nonetheless. The reasoning did not produce the judgement: the judgement came first, and the
-reasoning followed in its service.
+action-guidance" draws on several converging lines of evidence. The most fundamental is Mercier
+and Sperber's account of reasoning itself [24], which we develop below: reasoning evolved
+primarily as a social faculty for producing and evaluating arguments, not as a tool for private
+deliberation or truth-seeking. A second line is Jonathan Haidt's social intuitionist model of
+moral judgement [10]. Haidt's programme of research provides evidence that moral reasoning
+frequently follows judgement rather than producing it: judgements are reached by rapid,
+automatic intuitive processes, and reasoning enters in their service. In his influential
+dumbfounding experiments, subjects maintained firm moral judgements even when every rational
+objection they raised was systematically answered, eventually conceding that they could not
+articulate why they held the judgement but holding it nonetheless.
 
 This has a direct implication for the role of logical structure in morality. If moral reasoning
-were primarily a guide to action, so that agents consulted their moral framework, derived a judgement,
-and acted on it, logical consistency would matter for behavioural reasons. Inconsistent moral
-frameworks would produce erratic guidance and therefore erratic behaviour. But if moral reasoning is
-primarily post-hoc, then consistency cannot be doing this work. The behaviour has already happened,
-or the intuitive judgement has already been reached, before the reasoning begins. Logical structure
-must therefore be serving a different function, and we argue that function is social and propagative:
-moral reasoning is how moral attitudes get articulated, defended, shared, and passed on, not how
-they get applied.
+were exclusively a guide to action, so that agents consulted their moral framework, derived a
+judgement, and acted on it, logical consistency would matter for behavioural reasons.
+Inconsistent moral frameworks would produce erratic guidance and therefore erratic behaviour. To
+the extent that moral reasoning is instead post-hoc, or operates alongside intuitive judgement
+rather than producing it, consistency cannot be doing this work alone. The behaviour has already
+happened, or the intuitive judgement has already been reached, before the reasoning begins.
+Logical structure must therefore be serving an additional function, and we argue that function is
+social and propagative: moral reasoning is how moral attitudes get articulated, defended, shared,
+and passed on, not only how they get applied.
 
 A concrete illustration clarifies the point. Even when a moral preference originates in instinct
 or evolutionary adaptation, such as in the near-universal disgust response to fecal matter,
@@ -309,34 +385,42 @@ considerations should override it, can engage with the argument precisely becaus
 form. Logic is the medium through which preferences of any origin —- emotional, instinctual,
 evolutionary —- enter the space of public moral discourse and become available for transmission.
 
-This conclusion is strongly supported by Mercier and Sperber's evolutionary account of reasoning
-itself [24]. They argue that reasoning did not evolve primarily as a tool for individual
-truth-seeking or private deliberation, but as a social faculty for producing and evaluating
-arguments in order to persuade others and navigate cooperative social situations. On this account,
-the propagative function of moral reasoning is not an accidental feature or a correctable bias:
-it is what reasoning evolved to do. The post-hoc character of moral reasoning that Haidt documents
-empirically is, on Mercier and Sperber's account, exactly what we should expect from a faculty
-shaped by selection pressure for persuasion rather than truth-tracking.
+Mercier and Sperber [24] develop the underlying picture in more detail. Reasoning, on their
+account, did not evolve primarily as a tool for individual truth-seeking or private deliberation,
+but as a social faculty for producing and evaluating arguments in order to persuade others and
+navigate cooperative social situations. The propagative function of moral reasoning is therefore
+not an accidental feature or a correctable bias -- it is what reasoning evolved to do. The
+post-hoc patterns Haidt documents are exactly what one would expect from a faculty shaped by
+selection pressure for persuasion rather than truth-tracking.
 
 Greene's dual-process account of moral psychology [20] offers a complementary perspective. Greene
 argues that moral judgements arise from two systems: a fast, automatic, emotional system that
-generates strong intuitive responses, and a slower, deliberative, reasoning system that can override
-intuitions in sufficiently reflective conditions. On Greene's account, the deliberative system is
-genuinely action-guiding in some cases, particularly in conditions of calm reflection on unfamiliar
-dilemmas. This is a partial concession to the pre-commitment function we discuss in section 3.3:
-logical moral reasoning does sometimes shape what people decide to do, particularly in novel or
-high-stakes situations where intuitions are absent or conflicting. But this is the exception rather
-than the rule. For the vast majority of moral judgements in everyday life, the intuitive system
-dominates, and reasoning serves rationalisation.
+generates strong intuitive responses, and a slower, deliberative, reasoning system that can
+override intuitions in sufficiently reflective conditions. On Greene's account, the deliberative
+system is genuinely action-guiding in some cases, particularly in conditions of calm reflection
+on unfamiliar dilemmas. This is a partial concession to the pre-commitment function we discuss in
+section 3.3: logical moral reasoning does sometimes shape what people decide to do, particularly
+in novel or high-stakes situations where intuitions are absent or conflicting.
 
-Taken together, Haidt and Greene support a picture in which explicit moral reasoning (the kind
-that requires and rewards logical consistency) operates at the margins of actual moral behaviour.
-It is most active precisely where behaviour is least determined: in unfamiliar dilemmas, in public
-justification of positions to others, and in the transmission of moral attitudes across generations
-and social groups. These are exactly the contexts where propagation matters most. A moral framework
-that can generate consistent, universalisable, publicly defensible reasoning about novel cases is a
-framework that travels well across persons, communities, and time. The logical structure is not
-what drives the moral intuitions, but it is what makes them exportable.
+We do not commit to the strongest reading of Haidt -- that moral reasoning is almost always
+post-hoc. The empirical literature complicates this picture: moral grammar work argues that
+inferential structure does computational work even in fast judgement, Cushman's distinction
+between model-based and model-free moral cognition leaves room for genuinely deliberative
+reasoning, and Greene's later writing softens the strongest version of his dual-process model.
+Our argument does not require the strong post-hoc claim. It requires only the weaker observation,
+robust across this literature, that reasoning's primary social function is propagation rather
+than private deliberation. Selection pressure on logical structure operates whether moral
+reasoning is post-hoc, deliberative, or both -- both modes contribute to whether and how moral
+attitudes get articulated, defended, and transmitted.
+
+Taken together, this body of work supports a picture in which explicit moral reasoning (the kind
+that requires and rewards logical consistency) is most active precisely where behaviour is least
+determined by prior intuition: in unfamiliar dilemmas, in public justification of positions to
+others, and in the transmission of moral attitudes across generations and social groups. These
+are exactly the contexts where propagation matters most. A moral framework that can generate
+consistent, universalisable, publicly defensible reasoning about novel cases is a framework that
+travels well across persons, communities, and time. Logical structure is not the source of moral
+intuitions, but it is what makes them exportable.
 
 If moral reasoning were primarily action-guiding, philosophers demanding consistency would be
 helping agents act better. If it is primarily propagative, they are helping moral attitudes
@@ -447,16 +531,18 @@ propagation requires.
 
 ### 3.4 The Propagation-Over-Deliberation Claim
 
-The propagation account gains its sharpest support from what moral reasoning actually does. 
-As documented in section 2.4, explicit moral reasoning is in the overwhelming majority of cases 
-post-hoc rationalisation of judgements already reached by intuition. Logical consistency therefore 
-cannot be guiding action in any direct sense. What it does instead is exactly what the propagation 
-account predicts: it makes moral attitudes articulable, defensible, and transmissible. When we reason 
-explicitly about morality, we are almost always justifying a position, extending a commitment to an 
-unfamiliar case, or teaching a moral attitude. All of these are propagation activities. The logical 
-structure of morality is the machinery of moral transmission, not moral action. That this is not 
-accidental follows from Mercier and Sperber's account [24]: reasoning evolved as a persuasion tool, 
-and moral philosophy deploys it for precisely the purpose it was built for.
+The propagation account gains its sharpest support from what moral reasoning actually does. As
+documented in section 2.4, explicit moral reasoning frequently follows judgement rather than
+producing it, and even where it is genuinely deliberative it is most active in contexts where
+moral attitudes get articulated, defended, and transmitted: unfamiliar dilemmas, public
+justification of positions, and instruction of new moral agents. These activities are motivated,
+on Mercier and Sperber's account [24], by reasoning's evolved function as a persuasion faculty
+in immediate social context. They also, as a downstream consequence of that motivation, serve
+propagation across persons and generations. Articulating a moral commitment in logically
+consistent form is what the speaker's immediate persuasion task demands, and the same
+articulation is what enables the meme to travel. The logical structure of morality is therefore
+the machinery of moral transmission, but as a side-effect of the machinery of moral persuasion
+rather than as its goal.
 
 ### 3.5 Logic in Morality and its Upstream Causes
 
@@ -542,6 +628,18 @@ attitude expressions. The Frege-Geach problem identifies what looks like a logic
 non-cognitivism. On our account, it identifies a structural feature that moral discourse has 
 learned to exploit.
 
+This reading should not be heard as uncharitable to moral discourse. Deductive embedding has a
+cooperative function alongside its exploit function. Articulating a moral preference in
+deductive form makes the underlying preference structure inspectable: a competent reasoner who
+hears "if killing is wrong and this is killing, then this is wrong" can identify the speaker's
+underlying preferences, evaluate them against their own, and challenge them at specific points.
+Bare attitude expressions do not afford this. Deductive form therefore enables public contest
+of moral positions, not merely their amplification. The same structural feature serves both
+functions, and which one dominates in a particular case depends on whether the deductive form
+is being used to foreclose disagreement or to enable it. The exploit reading and the
+cooperative reading are compatible: the embedding of moral attitudes in deductive form does two
+things at once.
+
 ### 4.2 The Debunking Worry
 
 A natural objection to any genealogical account of morality is that it is debunking: if we can
@@ -589,9 +687,13 @@ A further objection is that our account collapses into relativism -- if moral st
 preferences without truth values, and different cultures propagate different moral systems, then
 there is no basis for saying that any moral system is better than any other. Everything is just
 competing memes. We reject this conclusion. That moral statements are preferences rather than truth-apt 
-propositions does not mean all moral systems are equally good. Even though moral statements are not 
-truth-apt, their effects on human welfare and social coordination are empirically assessable. Some 
-moral systems demonstrably enable larger, more stable, and more cooperative societies than others. This 
+propositions does not mean all moral systems are equally good. The evaluative criteria we appeal
+to here -- human welfare, social coordination, stability -- are themselves constructed within
+moral cultures rather than read off any external standard, and we make no claim to the contrary.
+The point is comparative. From within whatever constructed evaluative framework an assessor
+occupies, the effects of moral systems on welfare and coordination are empirically assessable.
+Some moral systems demonstrably enable larger, more stable, and more cooperative societies than
+others. This 
 is a selection criterion that explains why certain moral systems propagate and persist, not a truth 
 condition that makes their statements correct. But it is not merely arbitrary either. A moral system that 
 consistently produces social collapse will tend not to persist, and we can assess this without needing 
@@ -628,15 +730,20 @@ from logic to better morality. Consistency, universality, and overridingness mak
 make moral systems transmissible across persons and generations, and enable coordination
 among strangers at scale.
 
-This account integrates several bodies of evidence that are not usually brought together. 
-Hare's logical constraints, Dunbar's findings on the scaling of human social groups, Haidt's 
-social intuitionist model, and Mercier and Sperber's account of reasoning as a persuasion 
-faculty all point in the same direction: the logical structure of morality is the machinery 
-of moral transmission, not moral action. Moral philosophers demanding consistency are not 
-standing outside morality and discovering its normative requirements. They are participating 
-in the propagation mechanism of secular moral culture, performing a function structurally 
-analogous to what religious institutions performed for doctrinal morality: maintaining, 
-refining, and transmitting a coherent framework across persons and generations.
+This account integrates several bodies of evidence that are not usually brought together.
+Mercier and Sperber's account of reasoning as a social persuasion faculty supplies the
+underlying mechanism; Dunbar's findings on the scaling of human social groups identify the
+selection environment in which logical structure becomes fitness-decisive; the empirical moral
+psychology literature provides evidence that moral reasoning frequently follows rather than
+produces judgement; and Hare's logical constraints become the structural properties that
+selection acts on. The logical structure of morality is the machinery of moral transmission --
+or, more precisely, a side-effect of the machinery of moral persuasion. Moral philosophers
+demanding consistency are not standing outside morality and discovering its normative
+requirements. They are participating in the propagation mechanism of secular moral culture,
+performing a function structurally analogous to what religious institutions performed for
+doctrinal morality: maintaining, refining, and transmitting a coherent framework across persons
+and generations, distributed in the secular case across philosophy, education, schools, legal
+institutions, workplaces, and media.
 
 The account also illuminates a familiar aspiration in legal and political philosophy: that laws
 should, ideally, have some moral basis. Law and morality share the same underlying function: both
@@ -660,8 +767,9 @@ representations — is used here as theoretical support for a philosophical argu
 than as direct evidence for claims about secular moral propagation specifically. A fuller 
 account would ideally be grounded in systematic sociological study: data on how secular 
 moral frameworks propagate across populations, how their degree of logical structure 
-correlates with their durability and reach, and how institutions such as universities, 
-publishing, and formal education mediate propagation in the absence of religious apparatus. 
+correlates with their durability and reach, and how institutions such as schools, universities,
+legal institutions, workplaces, publishing, and media mediate propagation in the absence of
+religious apparatus. 
 Such work is methodologically demanding — secular moral preferences are harder to identify 
 and track empirically than religious affiliation or doctrinal commitment — but it represents 
 the natural empirical development of the theoretical argument made here.
@@ -680,6 +788,16 @@ system may fail to cross communal boundaries. The fitness advantage of logical s
 not therefore context-independent: it operates within the presuppositions shared by a given 
 community, and its effectiveness as a propagation resource diminishes when those 
 presuppositions are not held in common.
+
+A further direction worth marking. Some moral memes appear to propagate not only through the
+fitness mechanisms described above but also through cost-imposition that specifically tracks
+resistance to the moral view. Doctrines of damnation for the unfaithful, shame and exclusion
+attached to dissent, and guilt mechanisms tied to specific moral failures all display a
+structural signature in which the cost to the target intensifies when they attempt to maintain
+a contrary view and eases when they yield. This is the signature of manipulation rather than
+mere transmission. The relationship between propagation pressure as analysed here and
+manipulation as a specific propagation mechanism is a natural extension of the present account,
+which we mark as future work.
 
 ## References
 
@@ -740,5 +858,13 @@ presuppositions are not held in common.
 [28] Street, S. (2006). A Darwinian dilemma for realist theories of value. Philosophical Studies, 127(1), 109-166.
 
 [29] Joyce, R. (2006). The Evolution of Morality. MIT Press.
+
+[30] Sterelny, K. (2012). *The Evolved Apprentice: How Evolution Made Humans Unique*. MIT Press.
+
+[31] Sterelny, K. (2021). *The Pleistocene Social Contract: Cooperation and Conflict in Human Evolution*. Oxford University Press.
+
+[32] Henrich, J. (2020). *The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous*. Farrar, Straus and Giroux.
+
+[33] Schroeder, M. (2008). *Being For: Evaluating the Semantic Program of Expressivism*. Oxford University Press.
 
 

@@ -447,6 +447,21 @@ fully within the cells isegoria grants them while lacking access to cells where 
 would carry comparable weight. Bejan's parrhesia maps onto the former, and her isegoria, on our
 analysis, is the conjunction of Types 0-2 access.
 
+A boundary case deserves explicit acknowledgement. Bejan's isegoria includes not only the right
+to address an assembly but to "receive a hearing" -- to be engaged with, not merely delivered.
+This authority-to-be-listened-to component sits at the edge of our Types 0-2 formalisation. Two
+readings are compatible with the framework. The first treats authority as falling under Type 2:
+the "available channel" is read broadly to include not just physical delivery but uptake by the
+receiver, so that an unread email or unattended talk is a case where the channel that would
+actually convey the speaker's intention to an engaging interlocutor is absent. The second treats
+authority as a property of the (T, C) cell rather than of channel access: different cells
+correspond to contexts in which one is listened to and contexts in which one is not, and which
+cells are available to a speaker varies with authority. The first reading is more parsimonious,
+since it expresses authority entirely in the existing Types 0-3 vocabulary, whereas the second
+requires an additional notion of context access that goes beyond the Types 0-2 formalisation.
+We do not require a choice between the two, and the substantive claims of this section hold
+under either.
+
 ### 5.2 Degree of Freedom and Willingness-to-Reveal
 
 Within the recoverable region of U(S,T,C), the degree to which an utterance is freely spoken
