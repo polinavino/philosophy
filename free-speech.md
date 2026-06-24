@@ -396,6 +396,18 @@ speak transparently, or to pursue G and forgo transparency. The account does not
 every goal a speaker has is achievable through free speech. This non-achievablility is a cost to 
 speaking freely that the lying speaker views as prohibitive.
 
+**Opinion-dependence.** A consequence of grounding freedom in the cost of transparency is that
+whether a speaker is free to express a view depends in part on the view itself. The (T, C) cell
+fixes topic and context, but the cost of making the pathway transparent varies with the content
+of S's mental states: two speakers in the same cell, holding different opinions on the same topic,
+may face very different costs of sincerity. This cuts against the ordinary picture, on which free
+speech is a property of the channel or the topic and indifferent to what one happens to think.
+Yet it tracks something real. There is always some opinion extreme enough that voicing it carries
+a cost; every speaker faces a threshold beyond which sincerity is penalised, even where more
+moderate views on the same topic remain free. Freedom of speech, on this account, is not uniform
+across the opinions a speaker might hold within a cell but falls off as the content approaches
+what the context will not tolerate.
+
 **Intentional omission.** Deliberately withholding something the speaker knows the interlocutor
 would need to recover the pathway is the unsaid analogue of lying: opacity is engineered through
 absence rather than false signal. It falls outside the free speech region by the same condition.
