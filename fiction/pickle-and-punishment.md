@@ -1315,9 +1315,125 @@ She clipped Tango's leash on for his morning walk, took him around the block, an
 He went to the sofa. She picked up her bag and her coat and her legal pad, and headed to work. Procedure
 isn’t going to uphold itself.
 
+## Chapter nine : Unaffected
 
+The call came on a Wednesday at eleven forty, while she was three days out from the contract trial and
+elbow-deep in the opposing counsel's filing — the competent one, the one with the sound argument she had
+spent six weeks assembling a better one against. The number on the screen was one she didn't recognise and
+answered anyway.
 
+It was the Restorative Processing Unit. Not Maren. A voice she hadn't heard before, pleasant and
+administrative, calling to confirm her next scheduled session. Lena said she thought her sessions were on
+Saturdays. The voice said that under the pilot the sessions were subject to reallocation as capacity
+required, and that her next appointment had been set for the following Thursday at ten o'clock.
 
+"Thursday," Lena said.
+
+"Ten o'clock. It's mandatory attendance. Non-attendance is recorded as non-compliance."
+
+She had the calendar open before the sentence finished. Thursday at ten was the contract trial. It had been
+Thursday at ten for four months.
+
+* * *
+
+She called the number back — the one from Maren's office, the one whose answers she had already predicted
+would not be satisfactory. She had predicted correctly. Rescheduling was not available under the pilot. The
+allocation was system-generated. There was no provision for conflicting professional obligations, because
+the framework had been designed, the voice explained, to be minimally disruptive to participants' working
+lives, and most sessions fell outside working hours. Most. Hers, this time, did not.
+
+She asked what happened if she didn't attend. The voice referred her, without apparent irony, to the terms
+of her instrument. Non-compliance shall constitute breach. Reinstatement of original proceedings in full.
+And the mandatory service obligations specified in Appendix 4(ii), the page that had not been in the
+document, the empty space she had signed her name three inches beneath.
+
+She sat with the phone in her hand after it ended and looked at the building across the street, which was
+finished now, smooth and complete, a building that had never needed any work. Somewhere behind its clean
+façade people were presumably having a Wednesday.
+
+* * *
+
+She worked the problem the way she worked every problem, which was to lay out the routes and cost each one
+honestly.
+
+Route one: attend the session, move the trial. An adjournment application three days out was discretionary,
+opposed by the other side as a matter of course, and granted or not on grounds she would have to state. She
+could not state the grounds. The instrument saw to that. She would have to offer the court a reason that was
+vague enough to be a lie or specific enough to be a breach, and judges did not grant adjournments to
+counsel who could not say why they needed one.
+
+Route two: attend the session, hand the trial to Dav. Dav was good. Dav could read the file in a night. But
+six weeks of a case did not live in the file; it lived in the part of her that had read the opposing
+filing four times and knew where its author had gotten confident and where they had gotten careful.
+Handing it over meant handing over the folder and not the six weeks. The client's chances went down. Not to
+zero. Down. Measurably, in the direction that mattered.
+
+Route three: skip the session. Breach. Reinstatement, and Appendix 4(ii), and whatever was written on the
+page she had never seen.
+
+* * *
+
+She thought about Brindt. Of course she thought about Brindt. A notification sent three hours late, a
+window that did not bend, a woman who paid for a municipal clerk's ordinary Tuesday. Now it was a
+client of hers who would pay, on Thursday, for a pickle Lena had dropped at a barbecue in July — the
+same shape exactly, the harm sliding off the person who caused it and onto whoever happened to be
+standing nearest the file.
+My license is unaffected, she had told Tango, in the kitchen, holding the documents. My cases are
+unaffected. She had believed it. If there was ever a 
+time to break a pencil at work, this was it.
+
+* * *
+
+She pulled the legal pad out of her bag and turned past the notes from the Saturday of the dishes, the ones
+that had started large and gone sideways, and found a clean page. She was twirling her pen but not 
+writing anything down, weary of the heavy impact she knew documentation to have on how proceedings 
+unfold. Nobody would be looking at these scribbly notes any time soon, but the thoughts stayed in her mind.
+
+The punishment isn't real. That is the thing I keep circling and keep failing to say plainly. There is no
+punishment. Nothing was taken from me. I did not stand roadside in the blazing sun stabbing trash against
+my will.
+
+Lena had been telling herself she would have been fine with this if she *wanted* to do it, but that's
+beside the point.
+
+My record is clean, my license intact, my Saturday spent washing dishes I would have washed anyway.
+
+Whatever this is, it does not exist in the world where things are true. The relevant legal documents, however,
+were "reframing the truth." A real punishment and her on-paper punishment theater, put on for the comfort
+of her cousin, would land on the client whose Thursday she was about to give away in exactly the same way.
+
+* * *
+
+She put the pad down. Tango, who had followed the change in her breathing from the sofa to the desk, put
+his chin on her foot.
+
+Lena was "deciding" what to do. In reality, however, she was just waiting for the decision to bubble 
+to the surface. Then, once the decision she had been waiting to arrive arrived, it was clear that it 
+was not the one she wanted. She would hand off
+the case. She would give Dav the folder tonight and the six weeks over the weekend, as much of them as
+would go, and the client's chances would drop, and she would carry that. Not a grave consequence --
+maybe even none at all, but it was, at the very least, a fully costumed dress rehearsal for a play 
+about the structural impact of the punitive aspect of the judicial system.
+
+Because the alternative was worse by multiplication. Skip the session and the instrument would notice, the
+way it had noticed at eleven forty: breach, reinstatement, the whole machine grinding back into motion,
+every session after it another Thursday dropped without warning onto another week. One client hurt now, or
+the hell reopened and a longer line of strangers hurt for as long as it ran. The math was ugly and it was
+clear.
+
+She would tell a legally mandated lie to the client. It was scripted for her. She was a lawyer and she 
+knew how to do that in way that feels like it does not conflict with her moral principles, which 
+was a part of the job. 
+
+Outside, the traffic went the correct direction, all of it, obedient to a construct nobody could see. She
+looked at the smooth new building, and the finished trial calendar, and the phone that had rung at eleven
+forty on an ordinary Wednesday, and understood that she had been walking past this too, for years — not a
+brass plate on a shortcut, but the gap itself, the one she sat with methodically every morning, wider now,
+with someone else standing in it, and the meter still running, and nothing on it charged to her.
+
+She picked up the phone and called Dav. Together, they would be working late to try 
+to share that meter cost. Dav offered his sympathies "about the trash pickup thing", and he agreed it "wouldn't 
+be the worst activity if it had been purely out of the goodness of her heart". 
 
 
 

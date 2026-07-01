@@ -43,13 +43,12 @@ rivals in the cultural environment. They are easier to transmit, more capable of
 behaviour across large and anonymous populations, and more resistant to degradation as they pass
 between generations and communities. The demand for logical coherence in morality is best
 understood as a memetic fitness advantage, not a normative constraint. Logic makes for better
-morality, but morality does not require logic. We should note a tension this creates: fully
-abandoning the expectation of logical consistency in moral discourse would make that discourse
-nearly impossible, since logical reasoning is the only tool available for extending moral
-commitments to novel cases and publicly justifying moral positions to others. This tension is not
-a refutation of our account but one of its most striking illustrations — the pragmatic
-indispensability of logical structure in moral reasoning is itself a consequence of the selection
-pressures we describe.
+morality, but morality does not require logic. We should note a tension this creates, and take it
+up in section 3.2: fully abandoning the expectation of logical consistency would make moral
+discourse nearly impossible, since logical reasoning is the only tool we have for extending moral
+commitments and justifying them to others. This tension is not a refutation of our account but one
+of its most striking illustrations — the indispensability of logical structure in moral reasoning
+is itself a consequence of the selection pressures we describe.
 
 This paper makes three contributions:
 
@@ -245,6 +244,14 @@ the system unpredictable. These are the properties Hare tried to derive as logic
 statements. We are saying they are selection pressures on moral memes. The outcome looks similar: moral 
 systems do tend to have these properties. The explanation, 
 however, is entirely different.
+
+A complementary line of work concerns not the benefit of compression but its cost. C. Thi Nguyen's 
+account of value capture [35], building on James C. Scott's analysis of how institutions coordinating 
+large populations must first render them legible [37], describes how a simplified, sharable metric 
+tends to displace the richer and less articulable values it was introduced to represent. This is the 
+same compression our account treats as a fitness advantage, seen from its cost side. We return to it 
+in section 3.6, where utilitarianism serves as a case study of a moral code that takes the metric 
+form by design.
 
 ### 2.3 Dunbar, Religion, and the Scaling of Moral Systems
 
@@ -591,6 +598,72 @@ philosophy. Participating in the propagation mechanism of a moral system that en
 human cooperation and flourishing is a valuable thing to do. A commonplace attitude in philosophy holds 
 that a philosopher must follow their premises wherever they lead. We reject this view.
 
+### 3.6 Value Capture and the Metric Form of Morality
+
+The account so far explains why moral systems are under pressure to become compressible. A
+complementary literature explains what compression costs, and reading the two together gives a
+case study in which the descriptive/normative dichotomy of this paper becomes especially sharp.
+C. Thi Nguyen's analysis of value capture [35] describes the process by which an agent who enters
+an environment that presents a simplified, legible metric comes to adopt that metric in place of
+the richer, plural, and often inarticulate values they began with. The mechanism is general:
+grades stand in for understanding, citation counts for intellectual contribution, step counts for
+health, engagement figures for communicative success. In each case a quantity introduced to
+*represent* a value comes to *replace* it, because the metric is sharable, comparable, and
+actionable in ways the underlying value is not. Nguyen draws, as we do for a different purpose, on
+Scott's observation [37] that institutions coordinating large populations must first render them
+legible, and that legibility is purchased by flattening the local, tacit, case-specific knowledge
+that does not survive aggregation.
+
+This is the same trade-off our account locates at the heart of moral propagation, viewed from its
+cost side. The properties that make a moral system propagate — compressibility into a small set of
+principles, universal application without case-by-case negotiation, and overridingness that resists
+local trade-offs — are precisely the properties that make a metric legible. Overridingness in
+particular is the moral analogue of a clear win condition: it supplies what Nguyen calls value
+clarity [34], the unambiguous ranking that makes a value easy to act on and easy to share, at the
+price of suppressing the competing considerations a richer deliberation would weigh. A moral code,
+on our account, is among the oldest and most successful legibility regimes: it is what makes the
+otherwise illegible inner lives of strangers predictable enough to cooperate with, which is exactly
+the function section 2.3 assigns it beyond Dunbar's threshold.
+
+Utilitarianism is the limiting case. Where most moral codes acquire the metric form by degrees,
+utilitarianism adopts it by design: it proposes a single scalar, utility, and an aggregation rule,
+and derives every particular verdict from them. It is, in the moral domain, exactly the move Scott
+describes in the administrative one — the replacement of a heterogeneous field of values with one
+quantity that can be summed across a population. This is the source of its considerable appeal: it
+offers maximal value clarity, maximal compressibility, and unambiguous answers to novel cases,
+which on our account are fitness advantages of the first order. A theory shaped like a metric is an
+exceptionally good meme. But — and this is the whole of the point — that is an explanation of its
+grip, not a vindication of its content. The clarity that recommends utilitarianism is the clarity
+Nguyen warns is seductive [36]: a property of the representation, selected for transmissibility,
+not a signal that the representation is correct. Our framework predicts that a maximally legible
+moral theory will propagate especially well *whether or not* its verdicts track anything; the
+success of the metric form is therefore evidence about its form, not its truth.
+
+A clarification keeps this consistent with the non-cognitivism of section 2.1. Nguyen typically
+describes value capture as a distortion — the metric misrepresents the agent's *real* values — and
+that description appears to presuppose a richer set of values, perhaps moral facts, that the metric
+gets wrong. We neither need nor take on that presupposition. What is flattened, on our account, is
+not a moral truth but the actual distribution of an individual's preferences: plural, vague,
+locally inconsistent, and context-sensitive as a matter of psychological fact, not moral fact.
+Value capture is then the cost of compression measured against that distribution rather than
+against any external standard. This is the same object identified in the scope note of section 1 —
+society-level morality as a distribution of approximations rather than a single specification — now
+with a mechanism for how the approximation is produced and what it discards. The non-cognitivist
+reading does not weaken Nguyen's point; it removes the realist commitment that would otherwise make
+it inadmissible here.
+
+Finally, value capture sharpens the pragmatic tension of section 3.2 rather than dissolving it. One
+might read the foregoing as a recommendation to resist the metric form and retain the richer
+preference distribution. But the reason the metric form is selected is that the richer distribution
+is not actionable at scale: above Dunbar's threshold there is no coordination among strangers
+without some legible compression, and logical structure is the cheapest available. The seduction of
+clarity is not a contingent error that better hygiene would correct; it is the same selection
+pressure this paper describes, felt from the inside. There may be no more faithful option that is
+also transmissible — which is why the appropriate conclusion is descriptive (this is the trade-off
+moral codes make) rather than the normative injunction to refuse it. That a maximally legible
+morality may also be a maximally lossy one is not a paradox but the expected shape of a coordination
+technology operating beyond the scale its raw materials were built for.
+
 ## 4. Objections and Responses
 
 ### 4.1 The Frege-Geach Problem
@@ -743,7 +816,10 @@ requirements. They are participating in the propagation mechanism of secular mor
 performing a function structurally analogous to what religious institutions performed for
 doctrinal morality: maintaining, refining, and transmitting a coherent framework across persons
 and generations, distributed in the secular case across philosophy, education, schools, legal
-institutions, workplaces, and media.
+institutions, workplaces, and media. Read alongside Scott's account of legibility and Nguyen's of
+value capture, this same structure is what gives a moral code the form of a metric: utilitarianism
+is only the limiting case, a morality built in the metric form, whose clarity is a fitness
+advantage rather than a mark of truth.
 
 The account also illuminates a familiar aspiration in legal and political philosophy: that laws
 should, ideally, have some moral basis. Law and morality share the same underlying function: both
@@ -866,5 +942,13 @@ which we mark as future work.
 [32] Henrich, J. (2020). *The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous*. Farrar, Straus and Giroux.
 
 [33] Schroeder, M. (2008). *Being For: Evaluating the Semantic Program of Expressivism*. Oxford University Press.
+
+[34] Nguyen, C. Thi (2020). *Games: Agency as Art*. Oxford University Press.
+
+[35] Nguyen, C. Thi (2021). How Twitter Gamifies Communication. In J. Lackey (ed.), *Applied Epistemology*. Oxford University Press, 410-436.
+
+[36] Nguyen, C. Thi (2021). The Seductions of Clarity. *Royal Institute of Philosophy Supplement*, 89, 227-255.
+
+[37] Scott, J.C. (1998). *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. Yale University Press.
 
 
