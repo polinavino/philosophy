@@ -600,69 +600,50 @@ that a philosopher must follow their premises wherever they lead. We reject this
 
 ### 3.6 Value Capture and the Metric Form of Morality
 
-The account so far explains why moral systems are under pressure to become compressible. A
-complementary literature explains what compression costs, and reading the two together gives a
-case study in which the descriptive/normative dichotomy of this paper becomes especially sharp.
-C. Thi Nguyen's analysis of value capture [35] describes the process by which an agent who enters
-an environment that presents a simplified, legible metric comes to adopt that metric in place of
-the richer, plural, and often inarticulate values they began with. The mechanism is general:
-grades stand in for understanding, citation counts for intellectual contribution, step counts for
-health, engagement figures for communicative success. In each case a quantity introduced to
-*represent* a value comes to *replace* it, because the metric is sharable, comparable, and
-actionable in ways the underlying value is not. Nguyen draws, as we do for a different purpose, on
-Scott's observation [37] that institutions coordinating large populations must first render them
-legible, and that legibility is purchased by flattening the local, tacit, case-specific knowledge
-that does not survive aggregation.
+A complementary literature explains what that compression costs. C. Thi Nguyen's analysis of value
+capture [35] describes how an agent who enters an environment offering a simplified, legible metric
+comes to adopt it in place of the richer, plural, often inarticulate values they began with:
+citation counts stand in for intellectual contribution, step counts for health. A quantity
+introduced to *represent* a value comes to *replace* it, because it is sharable, comparable, and
+actionable in ways the value is not. This is the individual-scale version of Scott's observation
+[37] that institutions rendering a population legible must flatten the tacit, case-specific
+knowledge that does not survive aggregation. This is the trade-off our account locates at the heart of moral
+propagation, seen from its cost side: the very properties that let a moral system propagate —
+compressibility into a few principles, universal application without case-by-case negotiation,
+overridingness that resists local trade-offs — are what make a metric legible. Overridingness in
+particular is the moral analogue of a clear win condition, supplying what Nguyen calls value
+clarity [34] at the price of the competing considerations a richer deliberation would weigh. A moral
+code is thus among the oldest legibility regimes: what makes the otherwise illegible inner lives of
+strangers predictable enough to cooperate with, the function section 2.3 assigns it beyond Dunbar's
+threshold.
 
-This is the same trade-off our account locates at the heart of moral propagation, viewed from its
-cost side. The properties that make a moral system propagate — compressibility into a small set of
-principles, universal application without case-by-case negotiation, and overridingness that resists
-local trade-offs — are precisely the properties that make a metric legible. Overridingness in
-particular is the moral analogue of a clear win condition: it supplies what Nguyen calls value
-clarity [34], the unambiguous ranking that makes a value easy to act on and easy to share, at the
-price of suppressing the competing considerations a richer deliberation would weigh. A moral code,
-on our account, is among the oldest and most successful legibility regimes: it is what makes the
-otherwise illegible inner lives of strangers predictable enough to cooperate with, which is exactly
-the function section 2.3 assigns it beyond Dunbar's threshold.
+Utilitarianism is the limiting case. Where most moral codes acquire the metric form by degrees, it
+adopts it by design: a single scalar and an aggregation rule from which every verdict follows. This is
+exactly Scott's administrative move of replacing a heterogeneous field of values with one summable
+quantity. Its maximal clarity, compressibility, and decisiveness on novel cases are, on our account,
+fitness advantages of the first order: a theory shaped like a metric is an exceptionally good meme.
+But this explains its grip, not its content. The clarity that recommends it is the clarity Nguyen
+warns is seductive [36] — a property of the representation, selected for transmissibility, not a
+sign the representation is correct. Our framework predicts a maximally legible moral theory will
+propagate especially well *whether or not* its verdicts track anything.
 
-Utilitarianism is the limiting case. Where most moral codes acquire the metric form by degrees,
-utilitarianism adopts it by design: it proposes a single scalar, utility, and an aggregation rule,
-and derives every particular verdict from them. It is, in the moral domain, exactly the move Scott
-describes in the administrative one — the replacement of a heterogeneous field of values with one
-quantity that can be summed across a population. This is the source of its considerable appeal: it
-offers maximal value clarity, maximal compressibility, and unambiguous answers to novel cases,
-which on our account are fitness advantages of the first order. A theory shaped like a metric is an
-exceptionally good meme. But — and this is the whole of the point — that is an explanation of its
-grip, not a vindication of its content. The clarity that recommends utilitarianism is the clarity
-Nguyen warns is seductive [36]: a property of the representation, selected for transmissibility,
-not a signal that the representation is correct. Our framework predicts that a maximally legible
-moral theory will propagate especially well *whether or not* its verdicts track anything; the
-success of the metric form is therefore evidence about its form, not its truth.
+Nguyen does not hold that all metrics should be resisted; rather, his remedy is to match a value's
+form to its scale. In doing so, he keeps values thick and plural where that richness can be
+sustained, but grants that a shared metric's benefits outweigh the costs of flattening wherever
+precise collective coordination is what matters — his example is reducing carbon emissions [35].
 
-A clarification keeps this consistent with the non-cognitivism of section 2.1. Nguyen typically
-describes value capture as a distortion — the metric misrepresents the agent's *real* values — and
-that description appears to presuppose a richer set of values, perhaps moral facts, that the metric
-gets wrong. We neither need nor take on that presupposition. What is flattened, on our account, is
-not a moral truth but the actual distribution of an individual's preferences: plural, vague,
-locally inconsistent, and context-sensitive as a matter of psychological fact, not moral fact.
-Value capture is then the cost of compression measured against that distribution rather than
-against any external standard. This is the same object identified in the scope note of section 1 —
-society-level morality as a distribution of approximations rather than a single specification — now
-with a mechanism for how the approximation is produced and what it discards. The non-cognitivist
-reading does not weaken Nguyen's point; it removes the realist commitment that would otherwise make
-it inadmissible here.
+We note that in practice, large-scale normative systems remain rich and pluralist to some degree
+as they retain of the richer form as an interpretive layer laid over the
+compressed one. For example, in law, a broad principle is kept open and worked out through precedent, and
+religious scholars dispute how deliberately vague texts should guide conduct. But this is no scalable
+substitute for the metric — it is invoked only where a principle buckles under a conflicting or
+unprecedented case, and carried out by experts within a narrow field. The faithful form is
+recoverable only at a cost, spent at the points where compression fails. This is why the concise
+principle, commandment, or statute remains the default. 
+The seduction of clarity is therefore not a contingent error which better hygiene would correct, but
+the same selection pressure felt from the inside. In a broad sense, faithfulness is inversely
+proportional to transmissibility.
 
-Finally, value capture sharpens the pragmatic tension of section 3.2 rather than dissolving it. One
-might read the foregoing as a recommendation to resist the metric form and retain the richer
-preference distribution. But the reason the metric form is selected is that the richer distribution
-is not actionable at scale: above Dunbar's threshold there is no coordination among strangers
-without some legible compression, and logical structure is the cheapest available. The seduction of
-clarity is not a contingent error that better hygiene would correct; it is the same selection
-pressure this paper describes, felt from the inside. There may be no more faithful option that is
-also transmissible — which is why the appropriate conclusion is descriptive (this is the trade-off
-moral codes make) rather than the normative injunction to refuse it. That a maximally legible
-morality may also be a maximally lossy one is not a paradox but the expected shape of a coordination
-technology operating beyond the scale its raw materials were built for.
 
 ## 4. Objections and Responses
 
