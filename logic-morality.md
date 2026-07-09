@@ -99,6 +99,20 @@ the system level: logic is not a normative requirement on individual moral prefe
 selected feature of moral systems that succeed in propagation, and one that propagates downward
 to individuals through their institutional participation.
 
+A prior question is bracketed here. We assume a working notion of a moral preference — roughly, a
+preference held as overriding, universal within the group, and other-regarding rather than as
+mere taste or prudence. However, which preferences a community treats as moral at all is neither
+fixed nor uniform. Intelligence, dress, food, beauty, and sexual conduct fall inside the moral
+domain in some cultures and outside it in others, and the boundary moves within a single culture
+over time. Rozin's studies of moralization and its reverse track preferences converting into
+values and back [38, 39], as smoking and meat-eating acquired the moral status that homosexuality
+and divorce lost. This paper concerns the logical structure moral systems acquire, not the
+extension of the domain they range over, and we treat the two as separable here. But the boundary
+is plausibly under the same selection we describe. That is, the properties that make a norm propagate
+(universality, overridingness, transmissibility) are the very marks by which a moralized value is
+distinguished from a bare preference. We note this in section 5 as a direction for future
+work.
+
 The account draws on a non-cognitivist starting point in metaethics (section 2.1), Dawkins' and
 Sperber's frameworks for cultural transmission (section 2.2), Dunbar's anthropological work on
 the scaling of human social groups (section 2.3), and Mercier and Sperber's account of reasoning
@@ -856,6 +870,18 @@ mere transmission. The relationship between propagation pressure as analysed her
 manipulation as a specific propagation mechanism is a natural extension of the present account,
 which we mark as future work.
 
+A second direction concerns the extension of the moral domain rather than its structure.
+Throughout we have taken the class of moral preferences as given. However, the particular preferences a
+community moralizes (as opposed to leaving them to taste, prudence, or convention) is itself
+variable and historically mobile [38, 39]. The present account has resources to address this.
+Coordination-relevant conduct is moralized because attaching universality and overridingness to
+it is what makes it coordination-effective. On the other hand, purity, dress, and dietary norms, largely
+coordination-irrelevant on their face, plausibly moralize as group-identification markers whose
+policing sharpens the boundary of the cooperating unit [27, 32]. On this view the extension of
+the moral domain would fall under the same selection as its logical structure, and its shifts through
+moralization and demoralization, would track changes in the coordination or signalling value of
+the conduct in question. We mark the systematic development of this as future work.
+
 ## References
 
 [1] Ayer, A.J. (1936). Language, Truth and Logic. Gollancz.
@@ -931,5 +957,9 @@ which we mark as future work.
 [36] Nguyen, C. Thi (2021). The Seductions of Clarity. *Royal Institute of Philosophy Supplement*, 89, 227-255.
 
 [37] Scott, J.C. (1998). *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. Yale University Press.
+
+[38] Rozin, P. (1999). The process of moralization. *Psychological Science*, 10(3), 218-221.
+
+[39] Rozin, P., Markwith, M., & Stoess, C. (1997). Moralization and becoming a vegetarian: The transformation of preferences into values and the recruitment of disgust. *Psychological Science*, 8(2), 67-73.
 
 
