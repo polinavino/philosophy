@@ -12,7 +12,9 @@ abstract: |
    treated as a global binary property. Key consequences include: lying is excluded from free speech on 
    structural grounds independent of moral evaluation, tactical speech is free, coercion and censorship 
    reduce degree of freedom on a common scale, and the propagation of suppression through inferentially 
-   connected topics is analytically tractable. We extend Lowe's taxonomy with a Type 0 category for 
+   connected topics is analytically tractable. The framework also gives formal content to Bejan's 
+   distinction between isegoria and parrhesia, separates degree of freedom from a speaker's 
+   willingness to reveal, and interprets free speech law. We extend Lowe's taxonomy with a Type 0 category for 
    obstructions at the level of thought-formation, and develop the account in conversation with work 
    across philosophy of language, speech-act theory, and the history of political thought.
 bibliography: references.bib
@@ -28,58 +30,62 @@ Debates about free speech are rarely about whether speech should be free. They a
 constraints on speech count as restrictions of freedom and which do not. A government that punishes
 dissent restricts free speech, while a government that prohibits defamation, on most views, does not. 
 But the line is drawn
-by intuition and precedent rather than by any positive account of what free speech consists in.
-
-Rebecca Lowe's taxonomy [@lowe_speakingfreely] distinguishes three types of
-obstruction: Type 1, which concerns the speaker's capacity to produce an utterance and determine its content, Type 2,
+by intuition and precedent rather than by any positive account of free speech.
+Rebecca Lowe's proposed taxonomy [@lowe_speakingfreely] distinguishes three types of
+obstruction: Type 1, which concerns the speaker's capacity to produce an utterance and determine its 
+content, Type 2,
 which concerns the communicative channel connecting speaker to interlocutor, and Type 3, which
-presupposes both but involves the speaker refraining due to anticipated consequences. Censorship,
+presupposes both but involves the speaker refraining due to perceived risk of adverse consequences. For example, censorship,
 coercion, and chilling effects are all Type 3. The taxonomy is useful as it allows us to specify
-which kind of obstruction is operative before arguing about entitlement. However, Lowe characterises
-Type 3 negatively: as whatever is neither Type 1 nor Type 2. The positive account of what free
-speech consists in is left open.
+which kind of obstruction is operative before arguing about entitlement. However, Lowe's
+characterisation of Type 3 is negative in form: the presence of a threat or anticipated cost marks
+an utterance as unfree, and no condition is given under which speech counts as free. The positive
+account of what free speech consists in is left open.
 
-This paper offers that positive account, which we call the causal-transparency condition.
+This paper offers that positive account, which we call the causal-transparency condition. The
+account is parametrised from the outset: freedom of speech is assessed relative to a topic and a
+context, as a field over topic-context pairs rather than as a global property of a speaker.
 Our main contributions are as follows.
 
-1. **The causal-transparency condition.** We give positive content to Type 3 free speech: an
+1. **The causal-transparency condition** (section 4). We give positive content to Type 3 free speech: an
    utterance is freely spoken when the causal pathway from the speaker's communicative intentions
    to the utterance is recoverable by a competent interlocutor. The condition is stated over the
    full space of possible utterances U(S, T, C) available to a speaker S on a topic T in a context
    C, including silence. Whether
    opacity is self-engineered or externally imposed is irrelevant, as only recoverability matters.
-   This places lying and coercion on a common analytical axis. We also extend Lowe's taxonomy
-   with a Type 0 category: obstructions at the level of thought-formation, as an upstream
-   background condition that frames the scope of the analysis. We further argue that lying is a
+   This places lying and coercion on a common analytical axis. We argue that lying is a
    symptom of constrained expression: a speaker who lies to achieve goal G cannot achieve it
    through transparent expression.
+   
+2. **Type 0** (sections 2.1 and 3). We extend Lowe's taxonomy
+   with a Type 0 category: obstructions at the level of thought-formation, as an upstream
+   background condition that frames the scope of the analysis. 
 
-2. **Scalar degree of freedom.** Freedom admits of degree, measured inversely by the cost the
-   speaker faces in making the pathway transparent. This handles chilling effects and the full
-   range of intermediate cases that binary accounts cannot distinguish.
+3. **Formal content for Bejan's isegoria/parrhesia** (section 5.1). 
+   Parrhesia maps onto the within-cell causal-transparency condition.
+   Isegoria is identified with
+   the conjunction of Types 0, 1, and 2: having a thought one can form, express, and transmit to
+   a reachable interlocutor. 
 
-3. **Topic-context parametrisation and suppression topology.** Freedom is parametrised over
-   topic-context (T, C) pairs rather than being a binary global property. Suppression in one cell propagates along inferential
-   connections to adjacent cells, making the topology of constrained speech analytically tractable.
+4. **Suppression topology** (section 5.2). Because freedom is parametrised over topic-context (T, C) pairs,
+   suppression in one cell propagates along inferential connections to adjacent cells, making the
+   topology of constrained speech analytically tractable.
 
-4. **Formal content for Bejan's isegoria/parrhesia and the willingness-to-reveal property.**
-   Isegoria is identified with the conjunction of Types 0, 1, and 2: having a thought one can
-   form, express, and transmit to a reachable interlocutor. Parrhesia maps onto the within-cell
-   causal-transparency condition. We identify willingness-to-reveal as a distinct parrhesiastic
+5. **Scalar degree of freedom and willingness-to-reveal** (sections 4.2 and 5.3). Freedom admits
+   of degree, measured inversely by the cost the speaker faces in making the pathway transparent.
+   This handles chilling effects and the full range of intermediate cases that binary accounts
+   cannot distinguish. We further identify willingness-to-reveal as a distinct parrhesiastic
    property, best studied via a network of contexts adjacent to the original (T, C) cell.
 
-The remainder of the paper situates the account among the positions it builds on and departs from
-(section 2), states its simplifying assumptions (section 3), gives the definition and works through
-key cases (section 4), develops the extensions to degree, topic-context structure, and
-willingness-to-reveal (section 5), answers objections and applies the account to free-speech law
-and hate speech (section 6), and concludes (section 7).
+6. **A reading of free speech law** (section 5.4). Legal free speech protection is interpreted
+   using our framework as applicable only in specific contexts.
 
 ## 2 Related Work
 
 ### 2.1 Lowe's Taxonomy of Speech Constraints
 
 Rebecca Lowe's "Speaking Freely" project [@lowe_speakingfreely] offers the most useful structural starting point.
-We draw on Lowe's taxonomy as presented in a Substack essay and podcast discussion. This work is
+We draw on Lowe's taxonomy as presented in a podcast discussion and summarised on her Substack. This work is
 in progress and no peer-reviewed version is yet available. Lowe proposes that obstructions to
 free speech fall into three hierarchically related types, and that public 
 discourse on free speech would be substantially clarified by specifying which type is operative in any 
@@ -95,29 +101,23 @@ coercion are paradigmatic Type 3 cases, and so, on Lowe's account, is self-censo
 anticipating social cost.
 
 The taxonomy is diagnostically useful but deliberately incomplete at Type 3. Lowe characterises it 
-negatively: Type 3 obstructions are those that are neither Type 1 nor Type 2, without giving the 
-category positive content. What exactly fails when speech is Type-3 obstructed? What condition does 
-it fail to meet that unobstructed speech satisfies? The present paper offers an answer, which we call the 
-causal-transparency condition. We also depart from Lowe in treating Types 1 and 2 not as obstacle 
-categories to be analysed in parallel with Type 3, but as background conditions that our analysis 
-presupposes. Finally, we offer a Type 0 category of obstructions, which has to do with the ability to 
+negatively: the presence of a threat or anticipated cost is what marks speech as unfree, and no 
+condition is given for when speech is free. Our account supplies the converse, positive direction: 
+where the causal pathway from intention to utterance is reconstructible, speech is free. This is 
+the gap we address here with the starting assumption that 
+Types 1 and 2 constraints are satisfied.
+Finally, we offer a Type 0 category of obstructions, which has to do with the ability to 
 formulate certain thoughts in the first place. 
 
-This dependence calls for comment. We take over Lowe's three-way division essentially verbatim, and
-its only statement is informal and unrefereed. As the previous paragraph makes clear, our
-contribution does not merely apply the taxonomy but rests on it, since the positive content of Type
-3 is where our account does its work. We therefore do not rely on Lowe's authority for the
-taxonomy, but motivate it independently. The types are not a stipulation. They are the successive
-stages of a single causal process. A communicative intention must first be formed, and its
+We subscribe to Lowe's three-way division 
+essentially verbatim. We do not rely on Lowe's authority for the
+taxonomy, and motivate it independently (including our own Type 0, and our Type 3 definition refinement).
+A communicative intention must first be formed, and its
 obstruction is what we call Type 0. It is then expressed in an utterance that fixes its content
 (Type 1), then carried through a channel to an interlocutor (Type 2), and finally recovered by that
 interlocutor from the utterance and the shared context (Type 3). Each stage is a distinct point of
-possible failure, and the failures are of correspondingly distinct kinds. The division follows from
-the structure of communication and would stand whether or not Lowe had drawn it. What we take from
-Lowe is the diagnostic insight that separating these stages clarifies disputes about free speech.
-What we add is the analysis of the last stage, and, with Type 0, of the first. Where the
-distinction must bear weight in what follows, it is this independent motivation, not the borrowed
-labels, that bears it.
+possible failure, and the failures are of correspondingly distinct kinds. We take from
+Lowe the diagnostic insight that separating these stages clarifies disputes about free speech.
 
 That speech constraints can be typologised rigorously is not, in any case, peculiar to Lowe. Cook
 and Heilmann [-@cookheilmann2013] give a peer-reviewed typology of a neighbouring phenomenon,
@@ -125,12 +125,14 @@ distinguishing public self-censorship, in which an agent suppresses expression i
 external censor, from private self-censorship, in which censor and censee coincide and no external
 censor is present. Their axis differs from Lowe's, being the identity of the censor rather than the
 stage of the communicative process obstructed, but it sharpens what Lowe files under Type 3, where
-self-censorship in the face of anticipated cost is treated as one thing. Their central claim, that
-free-speech principles engage only public self-censorship, moreover falls out of our account: since
+self-censorship in the face of anticipated cost is treated as one thing. They draw an implication
+that principles of free speech do not apply directly to private self-censorship, since absent an
+external censor the suppression is non-coercive. This is implied by our account: since
 degree of freedom is fixed by the cost of transparency imposed on the speaker, self-restraint in
 the absence of any external cost leaves freedom untouched, however much it reduces what is said.
-Private self-censorship is thus, on our framework as on theirs, not a matter for free speech. We
-return to the analytical/remedial separation this reflects in section 6.1.
+Private self-censorship (at least above the involuntary Type 0 restriction) is thus, on our 
+framework as on theirs, not a matter for free speech. We
+return to the analytical/remedial separation this reflects in section 6.3.
 
 ### 2.2 Shiffrin's Thinker-Based Account
 
@@ -147,8 +149,8 @@ From this, Shiffrin derives what she takes to be an internal limit on free speec
 its protective ambit. A lie does not just harm the listener, it transforms a mechanism for conveying the 
 speaker's genuine mental contents into one that can convey either true or false representations of those 
 contents, corrupting the infrastructure on which free speech's value depends. Protection of sincere 
-expression and prohibition of lying share the same foundation. Shiffrin extends the analysis symmetrically 
-to compelled speech: what is most objectionable about forcing a speaker to say things they do not believe 
+expression and prohibition of lying share the same foundation. The thinker-based approach extends symmetrically 
+to compelled speech [@shiffrin2011]: what is most objectionable about forcing a speaker to say things they do not believe 
 is that it interferes with the autonomous thought processes of the compelled speaker, rather than 
 the listener's ability to recover them.
 
@@ -163,10 +165,11 @@ source of opacity (whether self-engineered or externally imposed) is irrelevant 
 condition. Only recoverability matters. This unification reflects a deeper claim we develop in 
 section 4: lying is itself a form of constrained expression. Shiffrin's account lacks this
 positive account of why lying is constrained 
-rather than merely corrupting, instead focusing on the idea that moral utility is what makes 
-communication valuable, and lying lacks it. 
+rather than merely corrupting: for her, lying is excluded because it corrupts a communicative 
+resource that moral agency requires, not because it manifests a constraint on the liar's own 
+expression. 
 
-Second, Shiffrin's account is binary. We argue in section 5 that freedom of speech admits of degree, 
+Second, Shiffrin's account is binary. We argue in section 5.3 that freedom of speech admits of degree, 
 measured by the cost to the speaker of making the causal pathway transparent. This scalar extension 
 is required to handle chilling effects and the full range of intermediate cases.
 
@@ -188,8 +191,8 @@ which a competent interlocutor can reconstruct this chain from words and shared 
 
 Grice's quality maxim, which states "do not say what you believe to be false", 
 is where his cooperative principle most 
-directly intersects with our framework. The relevant observation is not the normative one, that lying 
-violates cooperative norms, but the structural one: a lie is an utterance whose causal pathway from the 
+directly intersects with our framework. The relevant observation is not the normative one that "lying 
+violates cooperative norms", but the structural one: a lie is an utterance whose causal pathway from the 
 speaker's mental state cannot be recovered using the inferential tools that conversational cooperation 
 makes available. The interlocutor who applies Grice's reasoning to a sincere utterance can recover the 
 speaker's meaning, but the same tools applied to a lie yield a false result. 
@@ -199,8 +202,8 @@ Wilson's relevance theory [@sperber1995] grounds inferential comprehension in a 
 the interpretation a hearer settles on is the one that delivers the most cognitive effect for the
 least processing cost. This provides an empirically grounded account of how recovery actually proceeds
 in practice: a competent interlocutor's reconstruction of the causal pathway is what a
-relevance-driven inferential process produces under the shared context. Relevance theory does not
-change the structure of our analysis but supplies a more cognitively realistic mechanism for the
+relevance-driven inferential process produces under the shared context. Relevance theory 
+supplies a cognitively realistic mechanism for the
 recovery condition.
 
 Rae Langton and Jennifer Hornsby's work on illocutionary silencing [@langton1993; @hornsby1998] develops a related analysis from 
@@ -216,7 +219,7 @@ makes this speaker-interlocutor-context structure explicit and turns it into a c
 Mary Kate McGowan [-@mcgowan2019] extends the Langton-Hornsby framework by analysing how individual utterances
 shift the conversational norms that govern subsequent moves, "permitting" certain follow-ups by
 setting factual presumption, conversational tone, or normative defaults. This bears directly on the
-inferential-propagation argument we develop in section 5.1: constraints on speech in one (T, C) cell
+inferential-propagation argument we develop in section 5.2: constraints on speech in one (T, C) cell
 spread to adjacent cells not only through inferential implication but through the conversational
 norms that prior utterances institute. McGowan's machinery supplies a finer-grained account of how
 suppression in one cell can deform the conditions for free speech in connected cells.
@@ -233,32 +236,27 @@ reason as the coerced assertives discussed in section 4.3: the causal origin of 
 has been replaced, regardless of which type of act is nominally performed.
 
 To our knowledge, no major account in the free speech literature has systematically used Grice's conditions on the recovery of speaker's meaning 
-as the basis for defining what makes speech free. Our paper aims to fill this gap.
+as the basis for defining what makes speech free. 
 
 ### 2.4 Bejan on Isegoria and Parrhesia
 
-Teresa Bejan's work [@bejan2017; @bejan2020] recovers a distinction from ancient Greek political thought that contemporary 
+Teresa Bejan's work [@bejan2017; @bejan2019; @bejan2020] recovers a distinction from ancient Greek political thought that contemporary 
 free speech discourse has largely collapsed. Isegoria designated the equal right of citizens in good 
 standing to address the popular assembly and receive a hearing. It was an institutional concept tied to 
 democratic membership and equal formal access. Parrhesia designated the licence to speak frankly, 
 to say what one actually thinks even at personal cost. It required both the speaker's courage and the 
 audience's tolerance in the classical sense of enduring what one dislikes without suppressing it.
 
-For our framework, Bejan's distinction provides vocabulary for two properties that our analysis keeps 
-separate. Parrhesia maps onto the causal-transparency condition and the willingness-to-reveal property 
-we discuss in section 5: parrhesiastic speech is speech in which the pathway from the speaker's genuine 
+For our framework, Bejan's distinction provides vocabulary for two properties that our analysis can 
+articulate in terms of a single definition of free speech. 
+Parrhesia maps onto the causal-transparency condition and the willingness-to-reveal property 
+we discuss in sections 5.1 and 5.3: parrhesiastic speech is speech in which the pathway from the speaker's genuine 
 beliefs to their utterance is intact and the speaker would make it transparent even at cost. Isegoria 
 maps onto a structural precondition for the topic-context parametrisation: which cells are available to 
 a speaker is a question about equal access to the kinds of communicative situations in which speech can 
 occur, including which interlocutors are reachable and what authority the context confers on the speaker's 
 utterances. A speaker may be fully parrhesiastic within the cells available to them while lacking 
-isegoria-style access to cells where their speech would carry weight. These are distinct dimensions of 
-free speech, and our framework keeps them analytically separate.
-
-Bejan's project is historical and political rather than analytical. She does not offer a definition of
-what makes speech free. Our account uses her distinction as the motivation for a structural feature of
-the analysis and gives it formal content: in section 5.1 we show that isegoria, on our analysis, is
-precisely a matter of access: which utterances are reachable by the speaker at all.
+isegoria-style access to cells where their speech would carry weight. 
 
 ### 2.5 Mill, Schauer, and the Broader Free Speech Tradition
 
@@ -268,13 +266,13 @@ true (partial truth is lost), or wholly false (in which case unsilenced oppositi
 opinion from decaying into dead dogma, on Mill's view). The justification is consequentialist about
 epistemic outcomes: free discussion is valuable because of what it produces.
 
-Our account is not Mill's. The causal-transparency condition does not require that the speaker's
+Our account differs from Mill's. The causal-transparency condition does not require that the speaker's
 beliefs be true, well-formed, or rationally grounded.
 Truth-tracking enters our framework downstream rather than upstream:
 when speakers can transparently convey their mental states, the social processes that select for
 better beliefs (deliberation, criticism, error-correction) have the inputs they need. Mill's argument
 can be read as one substantive specification of what those processes produce. We make no such
-commitment. This is a deliberate conservatism: a theory of free speech can be given without taking on
+commitment, demonstrating how a theory of free speech can be given without taking on
 a controversial empirical claim about what that discussion delivers.
 
 Schauer [-@schauer1982] frames the foundational question slightly differently, asking why free speech requires
@@ -288,17 +286,20 @@ intervening at the act of utterance, while systematically undermining recoverabi
 of context, channel, or vocabulary. Our account makes the distinction explicit and gives it
 analytical content.
 
-The autonomy strand's canonical statement is Scanlon's [-@scanlon1972]. On Scanlon's early view, a
+On Scanlon's [-@scanlon1972] early view, a
 legitimate government may not restrict expression on the ground that citizens might be persuaded by
 it to form false beliefs or harmful intentions, because doing so is incompatible with their standing
 as autonomous agents who must weigh reasons for themselves. Free speech protects the audience's
-sovereignty over its own mind. Our account shares the autonomy intuition but locates it differently.
-For Scanlon the protected interest is the hearer's rational autonomy in forming beliefs, while for us it is
-the recoverability of the speaker's communicative pathway, an interest prior to and independent of
-what the hearer then does with what they recover. The two are complementary. A hearer cannot exercise
-Scanlonian autonomy over speech whose causal pathway is opaque, since there is then nothing
-determinate to weigh. Recoverability is the condition under which the autonomy Scanlon prizes has an
+sovereignty over its own mind. In our account, this can be expressed as protection against
+Type 0 constraints. However, our Type 3 allows this situation to be viewed from the perspective 
+of the speaker and the recoverability of their communicative pathway, an interest prior to and independent of
+what the hearer then does with what they recover. The two are complementary. 
+Recoverability is the condition under which the autonomy Scanlon prizes has an
 object.
+
+A separate literature asks whether freedom is the kind of thing that admits of degree at all,
+and how overall freedom might be measured [@kramer2002; @kramer2003; @carter1999]. We take up
+its bearing on our scalar claim in section 6.2.
 
 ## 3 Simplifying Assumptions
 
@@ -306,11 +307,13 @@ We restrict the scope of the analysis to intentional speech acts. Slips, compell
 arising from neurological causes, and other cases where speaking is not under the agent's control
 fall outside the domain we are analysing. 
 
-We treat Lowe's Types 1 and 2 not as obstacle categories but as background conditions shared
+Unless otherwise stated, we treat Lowe's Types 1 and 2 not as obstacle 
+categories but as background conditions shared
 between speaker and interlocutor. Specifically, we assume: (a) the speaker has the physical and
 cognitive capacity to speak and to determine the content of their utterance, and is a reasonable
-agent, in the sense that whatever they utter issues from some communicative reason rather than
-being produced at random, (b) a functional
+agent
+(in the sense that whatever they utter issues from some communicative reason rather than
+being produced at random), (b) a functional
 communicative channel and a shared language exist between speaker and interlocutor, and (c) the
 information environment shaping the speaker's belief-formation is mutually known to both parties,
 though not required to be accurate. These correspond to Lowe's Types 1, 2, and the upstream
@@ -319,8 +322,7 @@ condition we call Type 0 respectively.
 Condition (c) requires epistemic symmetry about the speaker's situation, not accuracy. A speaker
 whose beliefs have been shaped by a distorted information environment satisfies (c) if the
 interlocutor's beliefs admit a similar distortion. The distortion is part of the shared 
-context, used in recovering the causal pathway. What falls outside scope is the case where
-the information environment is itself not shared.
+context, used in recovering the causal pathway. 
 
 The conditions are not fully independent, and government intervention can target each level
 distinctly. Persecuting the use of minority languages operates at Type 1: it severs the ability
@@ -332,17 +334,20 @@ through which certain thoughts are most naturally formed. Newspeak-style vocabul
 is a milder instance of the same dynamic: constraining expression at Type 1 with potential
 long-run Type 0 consequences. At Type 2, government control of communicative infrastructure
 severs or filters channels before any question of cost on expression arises. All three forms
-of intervention foreclose the preconditions our analysis takes as given rather than operating
+of intervention foreclose the preconditions our analysis of Type 3 freedom takes as given rather 
+than operating
 within them, and a full treatment lies outside the scope of this paper.
 
-In section 5 we treat the cost of making the causal pathway transparent as a single scalar
-quantity, an idealisation we call linearisation: it places plural and possibly incommensurable
+In section 5.3 we treat the cost of making the causal pathway transparent as a single scalar
+quantity, an idealisation we call linearisation: it places plural (and possibly incommensurable)
 costs on one common linear scale. This is a significant simplification. The costs a speaker faces
 may be incommensurable: social harm to others, personal risk, and inconvenience are different
 kinds of cost with no obvious common scale. Costs are also speaker-relative: the same consequence
 carries different weight for different agents. We adopt this linearisation as a useful idealisation
 that captures the right
-qualitative structure without claiming metric precision.
+qualitative structure without claiming metric precision. We consider this an acceptable simplification 
+for the reason that in practice, the scale is outwardly simplified to binary: 
+the speaker either shares or does not share a given thought in a given context.
 
 We further assume: (d) the speaker can assess the cost structure of speaking in the given
 context, and (e) the speaker has an accurate model of what a competent interlocutor knows, can
@@ -360,40 +365,49 @@ is likewise outside scope.
 ### 4.1 The Space of Possible Utterances
 
 We analyse free speech not as a property of individual past utterances but as a property of the
-space of possible utterances available to an agent. Given assumptions (a)-(e) of section 3, we
+space of possible utterances available (in the sense of lack of Type 0-2 obstacles) to an agent. 
+Given assumptions (a)-(e) of section 3, we
 fix a speaker S, a topic T, and a context C, and consider the full set U(S, T, C) of utterances
 S could produce on T in C. This includes silence: the decision not to speak is itself an element
 of U(S, T, C), and the question of whether S is free to remain silent falls within the same
 framework.
 
-No agent is ever free over the entire space U(S, T, C). For the vast majority of possible
-utterances the causal pathway from S's mental states to the utterance is not recoverable by a
-competent interlocutor, because the utterance does not issue from S's genuine communicative
-intention on the topic. Lying (section 4.3) is the salient case, but it is not the only one.
-Consider "I am the walrus," produced in almost any ordinary context. On the reasonable-agent
-assumption (a) of section 3, a speaker who utters it has some reason for doing so, but that
-reason is not one the interlocutor can reconstruct from the words and the shared context, so the
-pathway is opaque even though the utterance need not be a lie in the deceptive sense. Utterances of
-this kind fall outside the free-speech region for the same structural reason a lie does: the
-pathway to S's mental states cannot be recovered. Others are sincere and recoverable but carry
+On the reasonable-agent
+assumption (a) of section 3, a speaker making an utterance has some reason for doing so. However,
+no agent is ever free over the entire space U(S, T, C) of the utterances they have reasons 
+for considering speaking. The vast majority of one's thoughts are not something they wish to express. 
+Lying to produce a desired outcome (section 4.3) is the salient case.
+Many other utterances are sincere and recoverable but carry
 costs. The question of free speech is therefore not whether S can say anything, but which subset of
 U(S, T, C) is freely accessible and to what degree.
 
+Freedom of speech, so understood, is not a binary global property of a speaker but a field over
+(T, C) pairs: a speaker may be fully free with respect to some topics in some contexts while
+substantially constrained with respect to others. The causal-transparency condition introduced
+next operates within a single cell, assessing which elements of U(S, T, C) are freely spoken.
+Claims about a speaker's freedom more generally range over the cells themselves. T and C are not
+formally distinguished in the present analysis: the pair (T, C) is treated as a unit, and the
+topic parameter is a convenience for picking out cases where a specific subject matter is salient
+(political affairs, personal life, professional conduct) rather than a structurally necessary
+component of the framework.
+
 ### 4.2 The Causal-Transparency Condition
 
-We say that an utterance u in U(S, T, C) is freely spoken if the causal pathway from S's mental
+Let us assume the simplifying assumptions in section 3 hold. Then,
+we say that an utterance u in U(S, T, C) is freely spoken if the causal pathway from S's mental
 states to u is recoverable by a competent interlocutor given the words and the shared context.
 More precisely, u is freely spoken to the extent that a competent interlocutor, drawing on the
 utterance and the shared context, can reconstruct the chain from S's mental states to u.
 
 The mental states in question are not S's general psychological states but specifically those
-constituting S's communicative intention on T: the beliefs, desires, and intentions that would
-determine what S says on T if speaking freely. Background states are relevant only insofar as
+which form S's communicative intention on T: the beliefs, desires, and intentions that 
+are, roughly, necessary and sufficient (in some simplified sense) for the speaker to 
+formulate u. Background states are relevant only insofar as
 they bear on this intention.
 
 This is a two-stage assessment. First, recoverability is a binary prerequisite: if the pathway
 is opaque, so that no competent interlocutor could reconstruct it from the available information,
-the utterance falls outside the free speech region of U(S, T, C) entirely. We treat this as a
+the utterance falls outside the free speech region of U(S, T, C) entirely. We treat this as yet another
 simplifying idealisation: in practice, pathways may be partially recoverable, i.e. an interlocutor
 may be able to tell that S is being constrained without knowing exactly what S would otherwise
 say. Modelling partial recoverability would require a graded notion, so we set it aside as it does
@@ -402,7 +416,7 @@ freedom varies: an utterance is more freely spoken the lower the cost to S of ma
 pathway transparent, where cost includes the anticipated social, psychological, and physical
 consequences of doing so, subject to the linearisation assumption of section 3.
 
-The source of opacity is irrelevant: whether the pathway is blocked by an external agent, by fear
+The source of opacity is irrelevant: whether the pathway is influenced by an external agent, by fear
 of consequences, or by S's own design, an unrecoverable pathway is not freely spoken.
 
 ### 4.3 Key Cases
@@ -415,7 +429,7 @@ capacity to determine content has been overridden, even though the channel is op
 physically speak. On the second, the pathway is not eliminated but made prohibitively costly: S
 retains the capacity to say what they think and complies because the cost of transparency is
 extreme. So construed, coercion is the limiting case of the chilling effects analysed below, on the
-common scale of section 5. That some people do tell the truth at gunpoint, at great cost, shows that
+common scale of section 5.3. Some people do tell the truth at gunpoint, at great cost, which shows that
 the pathway and the capacity typically remain intact, and the second reading is therefore the more
 general one, with the first recovered as its limit as the cost of transparency grows without bound.
 On either reading the utterance is not freely spoken: conditions (a) and (b) are satisfied, but the
@@ -425,11 +439,14 @@ zero.
 **Censorship and chilling effects.** A state that punishes dissent does not block the channel
 or remove physical capacity. Instead, it raises the cost of transparency in specific (T, C)
 cells while leaving others intact. The anticipated cost of sincerity in constrained cells
-deforms the causal pathway: what S says is determined partly by fear rather than by S's mental
-states alone. A competent interlocutor who knows the censorship context can often recover the
+deforms the causal pathway: what S says is determined partly by fear as part of S's mental
+states. A competent interlocutor who knows the censorship context can often recover the
 gap between utterance and belief. This is why speech under obvious censorship is frequently
 read correctly by all parties, but direct speech remains unfree to the degree that the cost of
-transparency is high.
+transparency is high. The rise of the use of the term "unalive" is an example. What such a state
+restricts is thus a targeted subset of the topic-context space, not speech as such: censorship is
+a local disruption of the causal-transparency condition. How this local disruption spreads to
+adjacent cells is taken up in section 5.2.
 
 **Tactical speech.** A speaker who declines a cookie before dinner, saying "I don't want one"
 when they do, is exercising self-control. Whether this is freely spoken depends on context: if
@@ -438,7 +455,13 @@ self-restraint rather than expressing a genuine preference, the pathway is recov
 utterance is freely spoken. The speaker is not engineering opacity because the gap between utterance
 and mental state is available to be inferred.
 
-**Silence and compelled speech.** Silence is an element of U(S, T, C), so the framework covers it directly. A speaker who chooses silence speaks freely when a competent interlocutor can recover why nothing was said, i.e. that the silence issues from the speaker's own communicative intention rather than from an imposed cost. Compelled speech is the mirror image, since forcing a speaker to utter what they would otherwise leave unsaid removes silence from the freely accessible set, or raises the cost of remaining silent, in the same way that censorship raises the cost of speaking. The Soviet voting example of section 5.2 is of this kind, where the public gesture of approval was effectively compelled and privacy carried the cost.
+**Silence and compelled speech.** Silence is an element of U(S, T, C), so the framework covers 
+it directly. A speaker who chooses silence speaks freely when a competent interlocutor can recover 
+why nothing was said, i.e. that the silence issues from the speaker's own communicative intention 
+rather than from an imposed cost. Compelled speech is the mirror image, since forcing a speaker 
+to utter what they would otherwise leave unsaid removes silence from the freely accessible set, 
+or raises the cost of remaining silent, in the same way that censorship raises the cost of speaking. 
+The Soviet voting example of section 5.3 is of this kind.
 
 **Lying.** A lie is an utterance whose pathway is made opaque by S's own design. It is not merely
 insincere, but constructed to prevent the interlocutor from recovering the causal pathway. This
@@ -447,8 +470,8 @@ places it outside the free speech region by the binary prerequisite.
 Lying is also a symptom of constrained expression: a speaker who lies to achieve goal G could
 not have achieved G through transparent expression. The lie is a workaround that reveals the
 constraint. This includes adversarial cases in which the goal is intrinsically incompatible
-with transparency, as when a fraudster cannot obtain consent to fraud through truthful
-expression. The framework treats these symmetrically: the speaker was free to forgo G and
+with transparency, as when a fraudster claims false identity to obtain access to private 
+information. The framework treats these symmetrically: the speaker was free to forgo G and
 speak transparently, or to pursue G and forgo transparency. The account does not promise that
 every goal a speaker has is achievable through free speech. This non-achievability is a cost to 
 speaking freely that the lying speaker views as prohibitive.
@@ -459,11 +482,12 @@ fixes topic and context, but the cost of making the pathway transparent varies w
 of S's mental states: two speakers in the same cell, holding different opinions on the same topic,
 may face very different costs of sincerity. This cuts against the ordinary picture, on which free
 speech is a property of the channel or the topic and indifferent to what one happens to think.
-Yet it tracks something real. There is always some opinion extreme enough that voicing it carries
-a cost. Every speaker faces a threshold beyond which sincerity is penalised, even where more
+We note that there is always some opinion extreme enough that voicing it carries
+a cost. The range of possible opinions on every topic 
+faces a threshold beyond which sincere expression is penalised, even where more
 moderate views on the same topic remain free. Freedom of speech, on this account, is not uniform
 across the opinions a speaker might hold within a cell but falls off as the content approaches
-what the context will not tolerate.
+what the interlocutor(s) will not tolerate.
 
 **Intentional omission.** Deliberately withholding something the speaker knows the interlocutor
 would need to recover the pathway is the unsaid analogue of lying: opacity is engineered through
@@ -472,111 +496,100 @@ This should be distinguished from unintentional omission: failing to mention som
 it seemed obvious from context, or not thinking to include it, which involves
 no engineering of opacity.
 
-## 5 Extensions
+## 5 Applications
 
-### 5.1 Topic-Context Parametrisation and Isegoria
+### 5.1 Parrhesia and Isegoria
 
-The definition of section 4 applies relative to a fixed topic T and context C. Freedom of speech
-is not a binary global property of a speaker but a field over (T, C) pairs: a speaker may be
-fully free with respect to some topics in some contexts while substantially constrained with
-respect to others.
+The causal-transparency condition asks whether a speaker's utterance is freely produced
+within a given (T, C) cell, and this within-cell condition is what corresponds to Bejan's
+notion of parrhesia. Since membership in U(S, T, C) already guarantees the absence of Type 0-2
+obstacles (section 4.1), we can define the parrhesiastic set P as the subset of U(S, T, C)
+containing the utterances whose causal pathway is recoverable and whose cost of transparency S
+is prepared to bear. Its definition answers the question "what can speaker S say freely in a
+given cell (T, C)?". Whether an utterance remains in P as the cost of transparency rises is
+determined by a disposition of the speaker. We return to this dispositional property as
+willingness-to-reveal in section 5.3.
 
-The two notations play distinct roles. A (T, C) pair is a topic-context cell, and fixing a speaker
-S within it yields the utterance space U(S, T, C) of section 4. The causal-transparency
-condition operates on the utterances within a single cell, assessing which elements of
-U(S, T, C) are freely spoken. The parametrisation introduced here instead ranges over the cells
-themselves, abstracting from any particular speaker, which is what lets us treat freedom as a
-field and track how suppression propagates from one cell to another.
+Isegoria, on the other hand, has to do with which cells can be accessed by the speaker at all.
+Fixing some utterance u, the set I of cells (T, C) for which u is in U(S, T, C) is what we call
+the isegoric set. Its definition answers the question "in which cells (T, C) is it possible for
+S to utter u?". Membership in the isegoric set is fixed by the Type 0-2 conditions alone.
+Type 0 is always required: S must be able to form the thought that u expresses. Type 1 requires
+that S can produce u and determine its content, including commanding a language in which the
+thought can be put. Type 2 is the most salient condition for isegoria: a channel must connect S
+to an interlocutor who shares that language (does S have their own TV channel, or the prime
+minister's email?). Type 3 plays no role here: whether S can afford to utter u frankly within a
+cell is a question about the parrhesiastic set of that cell, not about access to it. Keeping
+Type 3 out of the definition is what makes isegoria and parrhesia independent dimensions: a
+speaker may have access to few cells while being fully frank within them, or access to many
+while frank in none.
 
-We should note that T and C are not formally distinguished in the present analysis: the pair
-(T, C) is always treated as a unit. The topic parameter is a convenience for picking out cases
-where a specific subject matter is salient, e.g. free speech about political affairs, about personal
-life, or about professional conduct, rather than a structurally necessary component of the
-framework. A purely context-based parametrisation would be equally adequate for the analysis
-performed here.
+Access is not exhausted by delivery, because it is the context that confers authority on an
+utterance: different platforms, roles, and institutional settings give the same words different
+weight. A speaker may satisfy the causal-transparency condition fully within the cells of 
+the isegoric set
+while lacking access to cells where the context allows their speech to carry comparable weight.
 
-Censorship is the clearest example. A state that punishes political dissent does not globally
-suppress speech. Rather, it disrupts the recoverability condition in specific cells, say, political
-criticism, public forum, while leaving others intact. What is restricted is a targeted subset
-of the topic-context space, not speech as such. This makes it possible to characterise censorship
-precisely as a local disruption of the causal-transparency condition.
+Bejan's isegoria includes not only the right to
+address an assembly but to "receive a hearing" [@bejan2020], to be engaged with, not merely
+delivered. The authority-to-be-listened-to component invites two readings. 
+The first is that authority may fall
+under Type 2, with the "available channel" read broadly to include uptake by the receiver, so
+that an unread email or an unattended talk is a case of a missing channel. Alternatively,
+authority may be a property of the (T, C) cell itself: which cells are available to a speaker
+then varies with their authority. The first reading is more parsimonious, since it stays
+entirely within the Types 0-3 vocabulary, while the second requires an additional notion of context
+access. We do not require a choice between the two, and the substantive claims of this section
+hold under either.
 
-The topology of topic-space matters beyond the local case. When free speech is suppressed in
-certain (T, C) cells, adjacent cells may become similarly constrained, because sincere answers
-in them would implicate the suppressed ones. A speaker who cannot freely discuss the state's
-economic policy without risk may also be unable to discuss adjacent topics, e.g. historical
-precedents, welfare statistics, etc., that would implicate the same conclusions. Suppression
-propagates along inferential connections in the topic-space.
+### 5.2 Suppression Topology
 
-Isegoria concerns a different dimension. Whereas the causal-transparency condition asks whether
-a speaker's utterance is freely produced within a given (T, C) cell, isegoria asks which cells
-can be accessed by the speaker at all. On our analysis, isegoria is precisely the condition
-that Types 0, 1, and 2 are jointly satisfied: the speaker can form the thought in question
-(Type 0), express it in the appropriate linguistic form (Type 1), and transmit it via an
-available channel to a reachable interlocutor (Type 2). Where any of these fails, the utterance
-is not in the speaker's reach. This is not because the causal pathway is opaque, but because the
-speaker cannot arrive at the utterance in the first place. Moreover, it is the context that confers
-appropriate authority on an utterance: different platforms, roles, and institutional settings
-give the same words different weight. A speaker may satisfy the causal-transparency condition
-fully within the cells isegoria grants them while lacking access to cells where their speech
-would carry comparable weight. Bejan's parrhesia maps onto the former, and her isegoria onto the latter.
+Censorship, as analysed in section 4.3, is a local disruption: it raises the cost of transparency
+in a targeted subset of the topic-context space rather than suppressing speech as such. But
+suppression does not stay local. When sincere answers in adjacent cells would implicate the
+suppressed ones, those cells become constrained too: a speaker who cannot freely discuss the
+state's economic policy without risk may be equally unable to discuss historical precedents or
+welfare statistics that would support the same conclusions. Suppression propagates along the
+inferential connections of topic-space.
 
-A boundary case deserves explicit acknowledgement. Bejan's isegoria includes not only the right
-to address an assembly but to "receive a hearing": to be engaged with, not merely delivered.
-This authority-to-be-listened-to component sits at the edge of our Types 0-2 formalisation. Two
-readings are compatible with the framework. The first treats authority as falling under Type 2:
-the "available channel" is read broadly to include not just physical delivery but uptake by the
-receiver, so that an unread email or unattended talk is a case where the channel that would
-actually convey the speaker's intention to an engaging interlocutor is absent. The second treats
-authority as a property of the (T, C) cell rather than of channel access: different cells
-correspond to contexts in which one is listened to and contexts in which one is not, and which
-cells are available to a speaker varies with authority. The first reading is more parsimonious,
-since it expresses authority entirely in the existing Types 0-3 vocabulary, whereas the second
-requires an additional notion of context access that goes beyond the Types 0-2 formalisation.
-We do not require a choice between the two, and the substantive claims of this section hold
-under either.
+The propagation is not only inferential. As McGowan's analysis of conversational exercitives
+shows (section 2.3), utterances shift the norms that govern subsequent conversational moves, so
+suppression in one cell can also deform the conversational defaults of connected cells. Either
+way, the parametrisation renders the resulting structure analytically tractable: which cells a
+regime or platform directly suppresses, and how far the constraint spreads under inferential and
+normative adjacency, is a substantive question that can be posed cell by cell rather than
+gestured at globally. This approach involves constructing a network that maps the adjacencies
+between topic-context cells, then using its topology to draw conclusions about the free speech
+constraints on the constituent cells. The same structure is useful in analysing other
+applications of our definition, such as willingness-to-reveal (section 5.3).
 
-### 5.2 Degree of Freedom and Willingness-to-Reveal
+### 5.3 Degree of Freedom and Willingness-to-Reveal
 
-Within the recoverable region of U(S, T, C), the degree to which an utterance is freely spoken
-is inversely proportional to the cost to S of making the causal pathway transparent. At one
-extreme, a speaker who faces no cost from being fully transparent speaks with maximal freedom
-in that cell. At the other, a speaker for whom transparency carries severe consequences 
-(e.g. loss of employment, social ostracism, physical danger) speaks with very low freedom, even if
-the pathway remains technically recoverable.
+Section 4.2 fixed the degree to which an utterance is freely spoken as inversely proportional
+to the cost to S of making the causal pathway transparent. This section examines how such costs
+arise in practice, and distinguishes degree of freedom from a neighbouring dispositional
+property, willingness-to-reveal. The point that most needs illustration is that degree of
+freedom tracks cost, not opacity: a pathway can be perfectly recoverable while the freedom to
+instantiate it is near zero.
 
-A widely reported account of Soviet electoral practice illustrates this well. Citizens were
-nominally free to vote for any candidate: ballots were unmarked and no formal prohibition
-existed. In practice, those voting for the Communist party could present identification and
-leave without approaching the booth, so that only those voting otherwise needed to mark a ballot. The
-act of entering the booth was itself a recoverable signal of dissent. No one was formally
-prevented from marking the ballot, but making one's true preference transparent by doing so
-carried potentially severe consequences. The degree of freedom in the (political preference,
-public voting) cell was near zero, not because the pathway was opaque, but because the cost of
-transparency had been made prohibitive by the structure of the system itself.
-
-This scalar talk invites an objection. Kramer [-@kramer2002] argues that freedoms do not exist by
-degrees: a particular freedom either exists or it does not, and gradations enter only on
-aggregation. Taken at the level of the single utterance, the objection is correct, and our account
-concedes it. The speaker's decision about a specific utterance is binary, to speak or not, and it
-is settled by whether the anticipated cost of transparency crosses the threshold the speaker will
-bear. At that level there is no degree, only a threshold test, and the incommensurability of the
-underlying costs (section 3) does not bite, since the decision requires a comparison against the
-threshold, not a metric over costs. The degrees our account trades in therefore do not belong to
-the atomic act. They belong to the cost structure across the space of utterances: as the utterance,
-the opinion held (section 4.3), or the context varies, the point at which the threshold is crossed
-moves, and it is this variation over U(S, T, C) that "degree of freedom" measures. This is also the
-level at which Kramer takes freedom to be measurable, since he denies gradations to particular
-freedoms while affirming the measurability of overall freedom [@kramer2003; @carter1999]. Our
-scalar claim is a claim about the latter, and the apparent contradiction dissolves once the level
-is marked.
+A widely reported account of Soviet electoral practice is the pure form of this situation. Take
+the cell (political preference, public voting), and treat a vote as an utterance in the extended
+sense: an expressive act that registers a preference. The utterance space contained a costless
+option and a costly one. Voters for the Communist party could present identification and leave;
+voting otherwise required entering a booth to mark the ballot. The sincere utterance was thus
+perfectly recoverable, since entering the booth was a maximally legible signal of dissent by
+design, and that is exactly where the cost was attached. The degree of freedom in the cell was near
+zero, not because the pathway was opaque, but because the structure of the system made
+transparency prohibitively expensive. No explicit prohibition, and no threat aimed at any
+utterance, was needed.
 
 A related but distinct property is willingness-to-reveal: whether S would, if asked directly,
 clarify the causal pathway. A speaker exercising self-control who says "I don't want a cookie"
 when they do, and who would confirm this if pressed, "actually, I do, I'm just trying not
 to spoil my dinner", speaks freely with high willingness-to-reveal. A speaker who would deny it if
 asked is exercising concealment beyond what the original utterance involves. Willingness-to-reveal is the parrhesiastic property in Bejan's sense: the disposition to make one's actual
-mental states transparent even at personal cost. Studying willingness-to-reveal is best
+mental states transparent even at personal cost. As stated above, 
+studying willingness-to-reveal is best
 approached through a network of contexts related to the original (T, C) cell. In particular,
 those in which the speaker is directly asked to clarify what was concealed. Whether S confirms
 or continues to conceal in such adjacent contexts is what makes the property empirically
@@ -588,7 +601,8 @@ In the (general policy, public address) context, the knowledge of corruption may
 as a communicative intention at all: it is not something they want to say, so the causal-transparency condition does not directly apply. The omission is not obviously intentional
 engineering of opacity, as the speaker may simply have planned to discuss other topics.
 
-The network of related contexts makes the situation tractable. If an interviewer asks directly
+The network of related contexts 
+makes the situation tractable. If an interviewer asks directly
 "were there corrupt dealings?", this shifts the context to (corruption, direct questioning),
 forcing the relevant mental state to the surface. A free response would be one from which that state is
 recoverable. A lie, "no, nothing of the kind", falls outside the free speech region by the
@@ -600,54 +614,23 @@ recoverability condition and illustrates why studying willingness-to-reveal thro
 contexts matters: it is in those contexts that concealment becomes visible and evasion becomes
 assessable.
 
+### 5.4 Free Speech Law 
+
+Free speech law can be understood within the framework as fixing a specific (T, C) cell: the
+context in which a speaker addresses, or may be heard by, state officials, under conditions
+where non-legal social consequences are not at issue. A free speech law, on this reading, is a
+guarantee that the legal cost of transparency in that cell will not be raised above a threshold.
+The relation between legal protection and free speech in our sense is asymmetric. In one
+direction, the correspondence is total: whatever protection free speech law offers takes exactly
+this form, a commitment about the cost structure of specific cells.
+In the other direction, it is partial: not all speech that is free in our sense
+receives legal protection. The protected cells are a small region of the topic-context space,
+and even within them the law withholds protection from some utterances, lying and hate speech
+being the examples we treat in sections 6.3 and 6.4.
+
 ## 6 Objections
 
-### 6.1 Does Excluding Lies Imply Legal Prohibition?
-
-If lying falls outside free speech on our account, an objector might conclude that laws
-restricting lies are not only permissible but required. This seems to license too much:
-government truth enforcement, mandatory sincerity, the apparatus of a thought-policing state.
-
-The conclusion does not follow. Our framework is analytical: it characterises what free
-speech consists of, not what the law should protect. The two questions are distinct, and the
-gap between them is principled. Even where a lie falls outside free speech on our account, the law has practical reason to reach it only when two conditions are jointly met:
-
-(a) The statement is provably false. Many lies cannot be established as such, as they concern
-contested evidence, matters of interpretation, or claims that cannot be verified. For those,
-the pathway may appear opaque, but we cannot establish that it is. Legal protection continues
-by default under epistemic uncertainty.
-
-(b) The statement has an identifiable victim. Where a provably false statement causes no harm to
-any specific party, legal intervention may not be warranted even if the statement falls outside
-free speech on our account. Harm is a proportionality condition on legal remedy, not a
-condition on whether speech is free.
-
-These two constraints are exactly what defamation, libel, and slander law already apply. One 
-may additionally argue that laws governing entrapment, freedom of information, screaming "fire" 
-in a crowded theatre, and consumer protection fall under these constraints. The Brandenburg test
-for incitement in US constitutional law, which restricts speech directed at producing imminent
-lawless action, carves out a structurally similar region from a different angle: it targets
-speech whose downstream causal contribution to a foreseeable unlawful act is the source of harm,
-regardless of whether the pathway from intention to utterance was transparent. We return to this
-orthogonality in section 6.3.
-Our framework provides a theoretical grounding for why those carve-outs are principled: they are
-the practical implementation of the causal-transparency account under epistemic constraints
-and proportionality requirements, not arbitrary exceptions to a general liberty.
-
-US constitutional doctrine has in fact converged on just this structure. In *United States v.
-Alvarez* [@alvarez2012], striking down a statute that criminalised false claims of military honours, the
-Supreme Court held that the falsity of a statement does not by itself remove it from First
-Amendment protection, and that lies may be reached by law only where they produce a legally
-cognisable harm such as fraud, perjury, or defamation. That is exactly our two-part test read off
-the case law: provable falsity (a) is not sufficient for legal reach, and an identifiable harm (b) is
-also required. Sunstein [@sunstein2021] defends the same division on policy grounds, arguing that
-a free society must leave the great majority of falsehoods legally untouched and reserve
-regulation for lies that damage identifiable interests. What the doctrine leaves implicit our
-account supplies: legal remedy tracks not the unfreedom of the speech, which transparency settles
-on its own, but the presence of a harm the law can recognise. So described, the lies the law
-actually reaches are just those that pair provable falsity with an identifiable victim.
-
-### 6.2 Freedom as a Relational Property
+### 6.1 Freedom as a Relational Property
 
 Freedom of speech is usually thought of as a property of the speaker, i.e. something the
 speaker has or lacks, independently of their audience. On our account, the same utterance can
@@ -670,22 +653,72 @@ of freedom remains a fact about the communicative situation.
 A related concern is how the account handles surveillance. The competent interlocutor is not
 any particular hearer but someone with access to the shared context of section 3. Where the
 speaker knows about surveillance, it enters the analysis not by changing who the interlocutor
-is, but by changing C: a speaker who adapts their utterance because an informer is present is
+is, but by changing the context: a speaker who adapts their utterance because an informer is present is
 operating in a different context from one who does not, and the freedom condition (including
 its cost of transparency) applies to the expanded context accordingly. The case in which the
 speaker is unaware of surveillance falls under the misinterpretation exclusion of section 3:
 the speaker's model of who is reachable by the utterance is wrong, and that case is outside
 the framework as stated.
 
-### 6.3 Free Speech Law and Hate Speech
+### 6.2 Degrees of Freedom 
 
-Free speech law can be understood within the framework as fixing a specific (T, C) cell: the
-context in which a speaker addresses, or may be heard by, state officials, under conditions
-where non-legal social consequences are not at issue. A free speech law, on this reading, is a
-guarantee that the legal cost of transparency in that cell will not be raised above a threshold.
-This gives the framework a natural interpretation of what free speech legislation does: it is a
-commitment about the cost structure in a specific (speaker, state, public) context, not a claim
-about all speech in all contexts.
+Kramer [-@kramer2002] argues that freedoms do not exist by degrees: a particular freedom either
+exists or it does not, and gradations enter only on aggregation. If that is right, the scalar
+claim of section 5.3 may seem confused. The objection is answered by marking the level at which
+our degrees apply. The speaker's decision about a specific utterance is indeed binary: at a given
+cost, they either utter it or refrain, according to the threshold of cost they are prepared to
+bear. The degrees our account trades in do not belong to this atomic act. They belong to the cost
+structure across the space of utterances: as the utterance, the opinion held (section 4.3), or
+the context varies, the point at which the threshold is crossed moves, and it is this variation
+over U(S, T, C) that "degree of freedom" measures. This is also the level at which Kramer takes
+freedom to be measurable, since he denies gradations to particular freedoms while affirming the
+measurability of overall freedom [@kramer2003; @carter1999]. Our scalar claim is a claim about
+the latter, and the apparent contradiction dissolves once the level is marked.
+
+### 6.3 Legal Restrictions on Lying
+
+If lying falls outside free speech on our account, an objector might conclude that laws
+restricting lies are not only permissible but required. This seems to license too much:
+government truth enforcement, mandatory sincerity, the apparatus of a thought-policing state.
+However, our framework characterises what free
+speech consists of, not what the law should protect. 
+Even where a lie falls outside free speech on our 
+account, the law has practical reason to reach it only when two conditions are jointly met:
+
+(a) The statement is provably false. Many lies cannot be established as such, as they concern
+contested evidence, matters of interpretation, or claims that cannot be verified. For those,
+the pathway may appear opaque, but we cannot establish that it is. Legal protection continues
+by default under epistemic uncertainty.
+
+(b) The statement has an identifiable victim. Where a provably false statement causes no harm to
+any specific party, legal intervention may not be warranted even if the statement falls outside
+free speech on our account. Harm is a proportionality condition on legal remedy, not a
+condition on whether speech is free.
+
+These two constraints are exactly what defamation, libel, and slander law already apply. One 
+may additionally argue that laws governing entrapment, freedom of information, screaming "fire" 
+in a crowded theatre, and consumer protection fall under these constraints. The Brandenburg test
+for incitement in US constitutional law [@brandenburg1969], which restricts speech directed 
+at producing imminent
+lawless action, carves out a structurally similar region from a different angle: it targets
+speech whose downstream causal contribution to a foreseeable unlawful act is the source of harm,
+regardless of whether the pathway from intention to utterance was transparent. We return to this
+orthogonality in section 6.4.
+Our framework provides a theoretical grounding for why those carve-outs are principled: they are
+the practical implementation of the causal-transparency account under epistemic constraints
+and proportionality requirements, not arbitrary exceptions to a general liberty.
+
+US constitutional doctrine has in fact converged on just this structure. In *United States v.
+Alvarez* [@alvarez2012], striking down a statute that criminalised false claims of military honours, the
+Supreme Court held that the falsity of a statement does not by itself remove it from First
+Amendment protection, and that lies may be reached by law only where they produce a legally
+cognisable harm such as fraud, perjury, or defamation. That is exactly our two-part test read off
+the case law: provable falsity (a) is not sufficient for legal reach, and an identifiable harm (b) is
+also required. Sunstein [@sunstein2021] defends the same division on policy grounds, arguing that
+a free society must leave the great majority of falsehoods legally untouched and reserve
+regulation for lies that damage identifiable interests (and, as all laws, require evidence). 
+
+### 6.4 Hate Speech and Speech-Mediated Harm
 
 Hate speech is a different kind of case and is orthogonal to the freedom question. Whether a
 speaker's utterance is freely produced says nothing about the effects that utterance
@@ -709,73 +742,58 @@ is hiding inside makes the general point: the truthful answer is freely spoken o
 (the pathway is recoverable) but causes serious foreseeable harm. The protective lie falls
 outside the free speech region by the binary prerequisite. The framework correctly identifies
 each case as freely spoken or not, but the question of which kinds of speech-mediated harm
-warrant restriction, and what additionally makes some subset of these hate speech specifically,
+warrant restriction, and what causes some subset of these to be labelled hate speech,
 requires a fuller treatment of the harm side that we do not undertake here. We mark this as
 future work.
 
-This completes the picture sketched in section 6.1. The speech that law restricts falls into
+This completes the picture sketched in section 6.3. The speech that law restricts falls into
 two categories: speech that is already unfree in our sense (lying with an identifiable victim,
 deception producing harm), and speech restricted on grounds orthogonal to freedom (hate speech
 as harm to target, incitement as causal contribution to crime). 
 
 ## 7 Conclusion and Future Work
 
-This paper has proposed a causal-transparency account of Type 3 speech constraints. Rather than
-identifying free speech with the absence of external interference, or with the satisfaction of
-some sincerity norm, we have grounded it in a structural property of the communicative act,
-whether a competent interlocutor, given the shared context, can recover the causal pathway from
-the speaker's communicative intentions to their utterance. Stating the condition over the full
-space of possible utterances U(S, T, C), including silence, lets it capture suppression and
-coercion as well as overt speech acts, and the degree of freedom of a recoverable utterance is
-inversely proportional to the cost to the speaker of making that pathway transparent.
+This paper has proposed a causal-transparency account of free speech at the Type 3 level of
+Lowe's taxonomy, motivated independently and extended upstream with a Type 0 category of
+obstructions to thought-formation. Its central value is that it replaces a negative
+characterisation with a positive condition. Where the literature marks speech as unfree by the
+presence of threats and anticipated costs, a single structural question, "can a competent
+interlocutor, given an utterance u and the shared context C, recover speaker S's causal
+pathway from communicative intention to u?", yields
+as consequences what other accounts must stipulate case by case. Among the consequences
+we explore: (1) lying and coercion are excluded
+on one structural ground rather than two moral ones, (2) censorship, coercion, and chilling effects
+become commensurable costs on a common scale, (3) the spread of suppression through connected topics
+becomes a tractable structural question rather than a metaphor, (4) both the ancient vocabulary
+of isegoria and parrhesia and the modern practice of free speech law acquire precise content
+within a single definition.
 
-The account accommodates several cases that resist clean treatment on standard approaches. Lying
-is not free speech, since its pathway from intention to utterance is opaque by design, whether that
-opacity is self-engineered or externally compelled. Tactical speech is free, because the gap
-between utterance and mental state remains recoverable from shared context. Coercion and censorship
-both reduce freedom by raising the cost of transparency, with coercion the limiting case in which
-that cost can grow high enough to displace the speaker's control of what they say. Intentional
-omission groups with lying, while unintentional omission is not a freedom violation. Existing
-speech law restricts either unfree speech or speech that is harmful independently of its freedom
-status, the latter category including hate speech, which is orthogonal to the freedom question.
+The account also separates questions that free speech debates tend to run together: what freedom
+of speech is, which speech deserves protection, and what remedies follow. It answers the first
+without inheriting Mill's empirical commitments about truth or a substantive theory of autonomy.
+The parametrisation by topic and context gives the answer its resolution: freedom is assessed
+cell by cell, so partial suppression, the normal condition of real speech environments, becomes
+a structure that can be mapped and studied with the tools of network analysis. Applied to law, the framework reads
+freedom-of-speech legislation as a guarantee about the cost of transparency in specific cells,
+and sorts the standard exclusions by their grounds: lying falls outside legal protection because
+it is not free speech to begin with, while hate speech is restricted for the harm it does, on
+grounds orthogonal to freedom.
 
-The (T, C) parametrisation captures the structure of partial suppression. Freedom is a field over
-topic-context pairs, not a binary global property, and suppression propagates along inferential
-connections between topics in ways that make the topology of constrained cells a substantive
-empirical and normative question. Bejan's distinction between isegoria and parrhesia receives
-formal content within the framework, with isegoria identified as the access conditions of Types 0,
-1, and 2 that determine whether an utterance is reachable by the speaker at all, and parrhesia as
-the within-cell causal-transparency condition. A related property, willingness-to-reveal, tracks
-whether a speaker would make the pathway transparent if directly asked, and is best studied through
-the network of adjacent contexts in which what was concealed is questioned directly, as the
-politician example illustrates.
+The simplifying assumptions flagged in the main text mark the directions for future work: (1) partial
+recoverability, set aside in section 4.2; (2) the linearisation of plural and speaker-relative costs,
+adopted in section 3; (3) the asymmetric case in which one party misreads the shared context, as
+under surveillance; (4) a unified treatment of the upstream interventions at Types 0 through 2, from
+language persecution to infrastructure control; and (5) an account of speech-mediated harm capable
+of distinguishing hate speech within it. 
+The inferential topology of topic-space stands out as a
+subject in its own right. That the study of freedom of speech should generate a network
+structure, a graph of topic-context cells along whose edges suppression propagates, is
+unexpected, and both its formal properties and its empirical instantiation in actual speech
+regimes deserve further investigation.
 
-Several assumptions bound the analysis, and relaxing each marks a direction for future work. The
-account takes the information environment shaping belief-formation to be mutually known but not
-necessarily accurate, and treats the Type 0 conditions that fix which thoughts a speaker can form
-as given, though both are downstream of institutional arrangements such as education, a free press,
-and access to diverse sources. The upstream interventions noted in section 3, minority language
-persecution and vocabulary restriction at Type 1 and infrastructure control at Type 2, foreclose
-those preconditions, and whether a unified account can span all four levels remains open. The cost
-structure fixing degree of freedom is idealised as linear and agent-independent, and both parties
-are assumed to read the shared context correctly, so the asymmetric case, including surveillance in
-which the speaker is wrong about who is reachable, is left unresolved. A fuller treatment of
-speech-mediated harm, including what distinguishes hate speech within it, is likewise outside
-scope.
-
-A broader functional point deserves brief mention. Cooperation between agents who lack personal
-acquaintance presupposes that their communicative intentions be recoverable by others, since
-without this, contracts, accountability, consent, and collective deliberation cannot operate. The
-causal-transparency condition can therefore be read functionally as well as analytically, as the
-substrate that more familiar arguments from truth, democracy, and autonomy presuppose. This reading
-does not displace those arguments but locates them in a common substrate, and motivates further
-work on the relationship between communicative transparency and the conditions of cooperation at
-scale.
-
-The causal-transparency account does not settle every normative question about which speech acts
-ought to be protected. It does, however, sharpen the analytical question of what, precisely, is the
-freedom at stake. By locating free speech in the recoverability of the pathway from communicative
-intention to utterance, the account gives that question a tractable and theoretically motivated
-answer.
+The causal-transparency account does not settle which speech ought to be protected. What it
+settles is the question that debate presupposes: what the freedom at stake is. By identifying
+free speech with the recoverability of the pathway from communicative intention to utterance,
+it hands the normative debate a defined object where it previously had intuition and precedent.
 
 

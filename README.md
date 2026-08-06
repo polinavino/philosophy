@@ -39,7 +39,9 @@ on a topic in a context, including silence, and parametrised by topic-context pa
 treated as a global binary property. Key consequences include: lying is excluded from free speech on 
 structural grounds independent of moral evaluation, tactical speech is free, coercion and censorship 
 reduce degree of freedom on a common scale, and the propagation of suppression through inferentially 
-connected topics is analytically tractable. We extend Lowe's taxonomy with a Type 0 category for 
+connected topics is analytically tractable. The framework also gives formal content to Bejan's 
+distinction between isegoria and parrhesia, separates degree of freedom from a speaker's 
+willingness to reveal, and interprets free speech law. We extend Lowe's taxonomy with a Type 0 category for 
 obstructions at the level of thought-formation, and develop the account in conversation with work 
 across philosophy of language, speech-act theory, and the history of political thought.
 
