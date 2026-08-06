@@ -22,7 +22,7 @@ link-citations: true
 reference-section-title: "References"
 ---
 
-*Word count: approximately 9,500 words, including notes and references.*
+*Word count: 9,204 words, including notes and references.*
 
 ## 1 Introduction
 
