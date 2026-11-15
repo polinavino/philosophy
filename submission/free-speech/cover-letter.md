@@ -1,7 +1,6 @@
 Dear Editors,
 
-I am submitting "Free Speech as Causal Transparency" for consideration as an article in the
-Journal of Ethics & Social Philosophy.
+I am submitting "Free Speech as Causal Transparency" for consideration as an article in Ergo.
 
 The paper proposes that an utterance is freely spoken when the causal pathway from the speaker's
 communicative intentions to the utterance is recoverable by a competent interlocutor. For a specific utterance, its freedom is

@@ -303,6 +303,13 @@ its bearing on our scalar claim in section 6.2.
 
 ## 3 Simplifying Assumptions
 
+<!-- TODO: sections 3 and 4.1 have a circular dependency. Conditions (d) and (e) below use "cost"
+and "causal pathway", which aren't formally defined until 4.2, while 4.1's opening paragraph
+presupposes conditions (b), (c), (e) are already stated here. Consider splitting: keep (a)-(c)
+here, since they only depend on the Type 0-2 taxonomy from section 2; move (d)-(e) to after 4.2,
+where cost and causal pathway actually exist; and/or pull a standalone context/topic subsection
+out of 4.1's opening so neither section depends on the other for its core vocabulary. -->
+
 We restrict the scope of the analysis to intentional speech acts. Slips, compelled utterances
 arising from neurological causes, and other cases where speaking is not under the agent's control
 fall outside the domain we are analysing. 
@@ -364,6 +371,18 @@ is likewise outside scope.
 
 ### 4.1 The Space of Possible Utterances
 
+We first give T and C the definitions that section 3's assumptions used pre-theoretically. The
+topic T is the subject matter an utterance concerns, taken coarsely rather than as a unique
+proposition: a specific political affair, a named person's conduct, a debate over shared 
+chores. The context C
+packages the remaining situational parameters section 3 presupposed under a single shared label:
+the channel and interlocutor(s) it connects the speaker to (condition (b)), the information
+environment mutually known to speaker and interlocutor (condition (c)), and the institutional or
+social setting of the exchange, e.g. a courtroom, a private conversation, a televised debate,
+which the competent-interlocutor standard of condition (e) draws on. What section 3 calls "the
+shared context" is C; the assumptions there fix its existence and certain of its properties
+without yet treating it as something that can vary. We turn to it as a parameter now.
+
 We analyse free speech not as a property of individual past utterances but as a property of the
 space of possible utterances available (in the sense of lack of Type 0-2 obstacles) to an agent. 
 Given assumptions (a)-(e) of section 3, we
@@ -385,11 +404,14 @@ Freedom of speech, so understood, is not a binary global property of a speaker b
 (T, C) pairs: a speaker may be fully free with respect to some topics in some contexts while
 substantially constrained with respect to others. The causal-transparency condition introduced
 next operates within a single cell, assessing which elements of U(S, T, C) are freely spoken.
-Claims about a speaker's freedom more generally range over the cells themselves. T and C are not
-formally distinguished in the present analysis: the pair (T, C) is treated as a unit, and the
-topic parameter is a convenience for picking out cases where a specific subject matter is salient
-(political affairs, personal life, professional conduct) rather than a structurally necessary
-component of the framework.
+Claims about a speaker's freedom more generally range over the cells themselves. Despite the
+separate definitions just given, T and C are not formally distinguished in the framework itself:
+the pair (T, C) is treated as a unit throughout, and nothing in the definition or its
+applications turns on drawing the boundary between subject matter and situational parameter in
+any particular way.
+
+How finely C is individuated when a single channel reaches more than one interlocutor is a
+further choice we leave open, and one to which section 5.1 returns.
 
 ### 4.2 The Causal-Transparency Condition
 
@@ -530,17 +552,34 @@ weight. A speaker may satisfy the causal-transparency condition fully within the
 the isegoric set
 while lacking access to cells where the context allows their speech to carry comparable weight.
 
+Specifying a context for an utterance presents a challenge when the utterance is made to a group,
+i.e. via a channel, such as a live speech or a social media post.
+Channels can rarely be guaranteed to reach only a specific set of interlocutors with a shared context,
+shared language, or a shared willingness to grant the speaker an audience. Differing reactions
+to the same utterance are the result of differences in the contexts of the reached interlocutors,
+including their educational backgrounds, life experiences, etc. The shared aspects of the
+contexts, including having tuned into the relevant channel, are typically thin relative to what
+any one interlocutor individually brings. This thin common ground is what the speaker has
+available in modelling a competent interlocutor under assumption (e) of section 3: not any actual
+member of the audience, but a composite built from whatever context the audience can be relied
+upon to share. Recoverability for a channel-delivered utterance is accordingly recoverability by
+this composite, neither by the best-informed nor by the least-informed member of the actual
+audience.
+
 Bejan's isegoria includes not only the right to
 address an assembly but to "receive a hearing" [@bejan2020], to be engaged with, not merely
-delivered. The authority-to-be-listened-to component invites two readings. 
+delivered. The authority-to-be-listened-to component presses on the composite competent
+interlocutor just introduced: membership in the thin shared context is not the same as attending
+to the utterance, so a composite capable of recovery need not be a composite that in fact
+engages. The authority-to-be-listened-to component invites two readings accordingly.
 The first is that authority may fall
-under Type 2, with the "available channel" read broadly to include uptake by the receiver, so
-that an unread email or an unattended talk is a case of a missing channel. Alternatively,
-authority may be a property of the (T, C) cell itself: which cells are available to a speaker
-then varies with their authority. The first reading is more parsimonious, since it stays
-entirely within the Types 0-3 vocabulary, while the second requires an additional notion of context
-access. We do not require a choice between the two, and the substantive claims of this section
-hold under either.
+under Type 2, with the "available channel" read to require not merely a composite interlocutor
+capable of recovery but one who in fact attends, so that an unread email or an unattended talk is
+a case of a missing channel. Alternatively, authority may be a property of the (T, C) cell
+itself: which cells are available to a speaker then varies with their authority. The first
+reading is more parsimonious, since it stays entirely within the Types 0-3 vocabulary, while the
+second requires an additional notion of context access. We do not require a choice between the
+two, and the substantive claims of this section hold under either.
 
 ### 5.2 Suppression Topology
 
@@ -615,6 +654,22 @@ contexts matters: it is in those contexts that concealment becomes visible and e
 assessable.
 
 ### 5.4 Free Speech Law 
+
+<!-- TODO for 5.4:
+- Detail what "context" is actually required for the free-speech-law cell (state officials as
+  audience) before leaning on it — this is the narrow/broad individuation question flagged in
+  4.1/5.1, applied to a case where getting it wrong matters a lot.
+- Work out how to split legal from non-legal consequences. Don't force this through the
+  single-scalar linearisation of section 3 — the split can be its own move rather than a
+  decomposition of one scalar into components.
+- "Whatever protection free speech law offers takes exactly this form" is argued almost entirely
+  from US constitutional doctrine (Alvarez, Brandenburg, Sunstein in 6.3-6.4). Either scope the
+  claim to US law explicitly, or add something comparative (e.g. ECHR Art. 10 uses a structurally
+  different proportionality-balancing form, not a categorical cost-threshold commitment).
+- Compelled speech (Shiffrin 2011, already cited in 2.2) isn't addressed anywhere in 5.4. Say
+  whether it's in scope, out of scope, or needs separate treatment — the causal-transparency
+  frame as stated only covers voluntarily offered speech.
+-->
 
 Free speech law can be understood within the framework as fixing a specific (T, C) cell: the
 context in which a speaker addresses, or may be heard by, state officials, under conditions

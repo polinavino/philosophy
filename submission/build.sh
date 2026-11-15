@@ -11,4 +11,4 @@ render () {
   echo "built $dir/$out"
 }
 render logic-morality logic-morality_Ergo.pdf
-render free-speech free-speech_JESP.pdf
+render free-speech free-speech_Ergo.pdf
